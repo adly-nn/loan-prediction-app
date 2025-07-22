@@ -1,0 +1,1501 @@
+customer_id,age,gender,employment_status,monthly_income,loan_amount,loan_term,loan_purpose,credit_score,bvn_verified,previous_loans,previous_defaults,guarantor_available,region,defaulted
+CUST00001,56,Male,Employed,133492,392048,9,Rent,651,1,1,0,0,Abuja,0
+CUST00002,20,Male,Employed,135915,99094,18,Business,654,0,0,0,1,Ibadan,0
+CUST00003,59,Female,Employed,142468,313009,3,Business,583,1,3,1,0,Abuja,0
+CUST00004,31,Male,Employed,131992,57859,18,Rent,694,1,1,0,0,Enugu,0
+CUST00005,53,Female,Self-employed,122644,218326,12,Travel,529,1,1,1,1,Kano,1
+CUST00006,53,Male,Self-employed,129538,53361,12,Medical,617,0,0,0,0,Kano,0
+CUST00007,41,Male,Self-employed,46132,275921,9,Business,511,0,1,1,1,Lagos,1
+CUST00008,41,Female,Employed,177917,306920,9,Medical,667,1,3,0,0,Ibadan,0
+CUST00009,54,Female,Employed,174375,444734,12,Travel,735,1,0,0,1,Lagos,0
+CUST00010,31,Female,Employed,251168,219495,18,Medical,507,0,0,0,1,Enugu,1
+CUST00011,49,Female,Self-employed,68718,306164,3,Business,642,1,0,0,1,Enugu,0
+CUST00012,45,Male,Unemployed,39154,403799,3,Rent,632,0,3,0,0,Lagos,1
+CUST00013,30,Female,Unemployed,10000,118832,12,Medical,634,0,0,0,0,Abuja,1
+CUST00014,58,Female,Unemployed,23372,134418,6,Medical,585,1,2,2,0,Enugu,0
+CUST00015,45,Male,Self-employed,92305,80998,18,Rent,630,1,1,0,1,Abuja,0
+CUST00016,55,Female,Student,27013,320429,9,Travel,459,1,0,0,0,Abuja,1
+CUST00017,46,Female,Employed,137506,117918,6,Business,685,1,1,0,1,Kano,0
+CUST00018,56,Female,Unemployed,22167,463099,3,Rent,567,1,0,0,1,Ibadan,0
+CUST00019,19,Female,Self-employed,140019,102466,12,Education,615,1,3,2,1,Enugu,0
+CUST00020,53,Female,Self-employed,109051,14506,9,Rent,684,0,1,0,1,Abuja,0
+CUST00021,33,Female,Student,19975,97623,18,Education,561,1,2,1,1,Kano,1
+CUST00022,39,Male,Self-employed,135146,319257,18,Education,576,1,1,0,0,Lagos,0
+CUST00023,36,Male,Employed,194395,31365,6,Rent,639,1,1,1,1,Enugu,0
+CUST00024,46,Female,Employed,164197,482173,12,Education,592,1,0,0,1,Ibadan,0
+CUST00025,35,Female,Unemployed,37101,351054,18,Business,609,1,0,0,1,Enugu,1
+CUST00026,44,Male,Unemployed,19745,425848,9,Business,481,0,2,0,0,Kano,1
+CUST00027,24,Female,Self-employed,157494,328482,12,Business,600,1,2,0,0,Enugu,0
+CUST00028,39,Female,Self-employed,63463,491102,18,Business,554,1,1,0,0,Enugu,0
+CUST00029,54,Female,Self-employed,162415,115752,6,Medical,612,1,0,0,1,Abuja,0
+CUST00030,57,Male,Unemployed,10000,399641,12,Business,618,1,1,0,1,Lagos,0
+CUST00031,26,Female,Unemployed,26315,458454,6,Business,615,1,0,0,0,Abuja,0
+CUST00032,18,Male,Employed,213664,215604,12,Business,703,1,0,0,0,Ibadan,0
+CUST00033,22,Male,Self-employed,88773,489960,12,Travel,539,0,0,0,1,Abuja,1
+CUST00034,47,Female,Student,17899,475081,6,Travel,613,1,0,0,1,Enugu,0
+CUST00035,22,Male,Unemployed,39726,472506,12,Medical,754,1,3,1,0,Port Harcourt,0
+CUST00036,54,Female,Employed,184110,329227,6,Rent,644,1,0,0,0,Lagos,0
+CUST00037,52,Female,Employed,186906,198844,18,Travel,470,1,0,0,1,Abuja,0
+CUST00038,28,Male,Employed,160860,403705,3,Business,658,1,0,0,1,Abuja,0
+CUST00039,53,Male,Employed,188329,176993,9,Business,540,1,2,1,0,Ibadan,0
+CUST00040,37,Male,Unemployed,24768,448806,12,Rent,694,1,0,0,0,Ibadan,1
+CUST00041,31,Male,Student,18998,251582,6,Education,802,0,0,0,1,Port Harcourt,1
+CUST00042,40,Male,Employed,139722,466155,3,Education,624,1,1,1,1,Kano,0
+CUST00043,29,Female,Student,24444,434765,12,Business,649,1,1,0,1,Enugu,1
+CUST00044,46,Male,Employed,106557,408271,12,Medical,459,1,2,0,1,Lagos,0
+CUST00045,44,Male,Self-employed,68331,222881,6,Travel,482,1,1,1,1,Port Harcourt,0
+CUST00046,56,Male,Student,22596,481464,6,Medical,753,1,0,0,0,Port Harcourt,0
+CUST00047,49,Male,Employed,93097,31266,12,Travel,659,1,1,0,0,Lagos,0
+CUST00048,31,Male,Employed,123082,371179,3,Rent,752,1,1,0,0,Abuja,0
+CUST00049,45,Female,Student,13954,122403,12,Rent,758,1,0,0,1,Port Harcourt,1
+CUST00050,26,Male,Self-employed,138016,345518,12,Business,542,0,4,1,1,Port Harcourt,0
+CUST00051,22,Female,Student,19631,407171,9,Education,571,1,0,0,0,Enugu,0
+CUST00052,44,Female,Self-employed,72234,28042,6,Medical,610,0,0,0,1,Abuja,0
+CUST00053,22,Male,Employed,150157,386803,9,Business,604,1,1,0,0,Lagos,0
+CUST00054,30,Female,Self-employed,113326,380929,3,Travel,574,0,0,0,1,Lagos,0
+CUST00055,20,Male,Employed,185378,280434,18,Business,606,1,1,0,0,Enugu,0
+CUST00056,38,Male,Student,25748,452544,3,Travel,652,1,3,0,1,Abuja,0
+CUST00057,50,Male,Employed,135398,314822,12,Travel,733,1,1,1,1,Ibadan,1
+CUST00058,41,Female,Unemployed,31280,180232,6,Medical,551,1,1,0,1,Abuja,0
+CUST00059,28,Female,Student,21832,99121,6,Medical,506,1,2,0,0,Port Harcourt,1
+CUST00060,22,Female,Employed,111591,25584,3,Education,469,1,1,1,0,Ibadan,1
+CUST00061,44,Male,Employed,129008,438053,18,Rent,621,1,0,0,1,Ibadan,0
+CUST00062,32,Female,Self-employed,131987,125697,9,Business,606,1,2,0,0,Abuja,0
+CUST00063,40,Female,Unemployed,60788,62514,6,Education,711,1,1,0,0,Ibadan,1
+CUST00064,34,Female,Employed,130602,68683,18,Medical,491,1,2,1,0,Enugu,1
+CUST00065,51,Male,Self-employed,183379,286584,9,Business,739,1,0,0,1,Lagos,0
+CUST00066,23,Male,Unemployed,16014,59873,9,Travel,656,0,0,0,0,Abuja,1
+CUST00067,48,Female,Self-employed,106958,459523,9,Travel,690,0,2,1,1,Port Harcourt,0
+CUST00068,43,Female,Employed,177990,101651,3,Education,523,1,1,0,0,Kano,0
+CUST00069,55,Male,Employed,115825,245758,9,Rent,626,1,0,0,0,Enugu,0
+CUST00070,19,Female,Self-employed,140251,134773,12,Travel,542,1,2,0,0,Enugu,0
+CUST00071,31,Female,Employed,134747,463960,3,Business,475,1,0,0,1,Enugu,0
+CUST00072,47,Male,Employed,136727,125488,9,Travel,645,1,1,0,1,Ibadan,0
+CUST00073,57,Male,Student,16617,157675,6,Business,376,1,1,1,0,Kano,1
+CUST00074,57,Female,Employed,157260,221448,9,Rent,446,1,2,1,1,Enugu,0
+CUST00075,44,Male,Employed,135378,162743,9,Travel,640,1,1,0,1,Port Harcourt,0
+CUST00076,50,Male,Self-employed,103481,195622,6,Rent,505,1,1,0,1,Port Harcourt,0
+CUST00077,19,Male,Self-employed,101090,287099,9,Education,586,1,3,0,1,Enugu,0
+CUST00078,29,Male,Unemployed,27311,365786,6,Business,556,1,0,0,1,Port Harcourt,1
+CUST00079,59,Male,Student,16986,43771,6,Rent,730,0,0,0,1,Port Harcourt,1
+CUST00080,54,Female,Unemployed,30557,299724,6,Rent,709,1,0,0,1,Lagos,1
+CUST00081,58,Male,Student,18949,433123,9,Medical,505,1,1,1,1,Lagos,1
+CUST00082,41,Female,Unemployed,18057,26600,18,Education,627,1,1,0,0,Enugu,0
+CUST00083,34,Female,Employed,126026,498468,3,Medical,583,1,1,1,0,Abuja,0
+CUST00084,49,Female,Employed,217694,195085,3,Travel,542,1,1,1,1,Port Harcourt,1
+CUST00085,47,Female,Unemployed,18224,99144,12,Travel,620,1,1,0,1,Ibadan,1
+CUST00086,40,Male,Student,18715,280344,18,Rent,702,1,0,0,1,Kano,1
+CUST00087,54,Male,Student,22502,126709,3,Travel,494,0,0,0,1,Ibadan,1
+CUST00088,21,Male,Unemployed,13067,52593,12,Business,509,1,2,1,1,Enugu,1
+CUST00089,18,Female,Unemployed,24772,137117,3,Medical,704,1,1,0,1,Ibadan,0
+CUST00090,51,Female,Student,18165,487528,9,Education,647,1,0,0,1,Enugu,0
+CUST00091,49,Female,Self-employed,85455,141651,6,Education,594,1,1,0,1,Enugu,0
+CUST00092,46,Female,Self-employed,78409,19011,18,Travel,522,1,0,0,0,Kano,0
+CUST00093,42,Female,Employed,204328,62223,9,Medical,597,0,0,0,1,Abuja,0
+CUST00094,24,Female,Unemployed,41861,208146,12,Education,625,1,1,1,0,Port Harcourt,1
+CUST00095,43,Male,Student,24122,363551,6,Business,587,1,2,0,1,Kano,1
+CUST00096,37,Female,Employed,158506,424739,6,Medical,571,1,0,0,1,Abuja,0
+CUST00097,57,Male,Self-employed,98600,347317,3,Business,777,1,0,0,1,Abuja,0
+CUST00098,47,Female,Employed,179571,481428,12,Education,540,1,1,0,1,Enugu,0
+CUST00099,48,Male,Student,22798,349215,12,Education,708,1,0,0,0,Abuja,0
+CUST00100,43,Male,Employed,174554,26633,3,Education,613,1,0,0,1,Abuja,0
+CUST00101,35,Male,Student,26783,325827,3,Travel,328,1,0,0,1,Abuja,0
+CUST00102,57,Male,Student,10000,290489,6,Education,471,1,1,1,1,Enugu,1
+CUST00103,19,Female,Student,23566,401403,18,Travel,604,1,0,0,1,Port Harcourt,0
+CUST00104,33,Female,Self-employed,82179,216464,12,Education,745,1,0,0,0,Kano,0
+CUST00105,21,Male,Unemployed,36672,145860,18,Education,761,1,0,0,0,Enugu,1
+CUST00106,54,Male,Unemployed,39843,472918,12,Business,578,1,1,1,0,Enugu,0
+CUST00107,27,Female,Self-employed,94871,27998,9,Medical,549,1,3,1,1,Kano,1
+CUST00108,59,Male,Self-employed,26767,498204,6,Rent,850,1,1,1,0,Port Harcourt,0
+CUST00109,54,Male,Self-employed,75488,445486,3,Education,561,1,3,0,1,Port Harcourt,0
+CUST00110,25,Female,Student,18822,270975,12,Business,610,1,0,0,1,Abuja,1
+CUST00111,49,Female,Student,24537,289946,18,Business,603,1,2,1,1,Ibadan,1
+CUST00112,58,Female,Student,14155,465744,3,Medical,525,0,1,1,1,Kano,1
+CUST00113,48,Female,Student,19164,174208,18,Travel,614,1,0,0,1,Ibadan,0
+CUST00114,56,Male,Student,23262,66763,6,Medical,410,1,0,0,0,Port Harcourt,1
+CUST00115,24,Female,Employed,166140,177517,12,Medical,604,1,1,1,1,Enugu,1
+CUST00116,44,Female,Self-employed,119616,357200,12,Rent,539,1,0,0,1,Ibadan,0
+CUST00117,46,Male,Student,30102,301253,18,Travel,526,1,0,0,0,Enugu,0
+CUST00118,28,Male,Employed,133344,144077,12,Rent,788,1,1,0,1,Port Harcourt,0
+CUST00119,49,Male,Employed,157314,330710,9,Education,543,1,1,0,1,Kano,0
+CUST00120,37,Male,Student,12372,492149,9,Medical,530,1,1,0,0,Port Harcourt,1
+CUST00121,29,Female,Student,14183,276184,9,Business,850,0,0,0,0,Port Harcourt,1
+CUST00122,24,Male,Employed,121668,25937,9,Rent,632,1,2,0,0,Enugu,0
+CUST00123,53,Male,Employed,105396,88804,3,Rent,631,1,0,0,1,Abuja,0
+CUST00124,34,Male,Self-employed,81907,304010,6,Rent,357,1,3,1,0,Port Harcourt,1
+CUST00125,49,Male,Self-employed,99438,113071,12,Medical,561,1,2,1,1,Kano,1
+CUST00126,30,Male,Employed,144629,75030,6,Medical,526,1,2,0,0,Lagos,0
+CUST00127,20,Male,Unemployed,32105,312136,18,Education,688,1,0,0,1,Port Harcourt,0
+CUST00128,37,Male,Employed,181486,49256,18,Rent,546,1,2,1,1,Lagos,0
+CUST00129,28,Female,Employed,169508,328644,18,Business,756,1,1,0,1,Kano,0
+CUST00130,49,Female,Unemployed,59650,362408,3,Travel,590,1,3,1,0,Enugu,1
+CUST00131,50,Female,Employed,139901,480782,12,Education,635,1,3,1,1,Lagos,0
+CUST00132,58,Female,Unemployed,46839,248467,12,Rent,554,1,2,1,1,Port Harcourt,1
+CUST00133,35,Male,Unemployed,43768,74468,18,Travel,677,1,1,0,1,Port Harcourt,1
+CUST00134,22,Female,Student,19463,57722,18,Medical,526,1,1,0,0,Kano,1
+CUST00135,42,Male,Employed,111159,389001,9,Education,716,0,2,0,0,Abuja,0
+CUST00136,27,Female,Student,15565,230222,9,Business,642,1,1,0,0,Port Harcourt,0
+CUST00137,54,Female,Self-employed,159787,355638,12,Rent,617,1,2,0,1,Kano,0
+CUST00138,54,Female,Unemployed,28690,467598,9,Travel,496,1,1,0,1,Enugu,0
+CUST00139,51,Female,Employed,103666,265647,18,Rent,650,1,1,0,0,Lagos,0
+CUST00140,25,Male,Student,16881,435389,12,Travel,791,0,4,1,1,Abuja,1
+CUST00141,29,Female,Student,20991,460152,12,Business,574,1,3,1,0,Lagos,1
+CUST00142,26,Female,Self-employed,86619,151455,12,Rent,620,0,3,2,1,Kano,1
+CUST00143,28,Female,Student,12654,328046,18,Travel,510,1,2,0,1,Kano,1
+CUST00144,49,Female,Unemployed,17068,45866,9,Education,539,1,2,0,1,Kano,1
+CUST00145,23,Female,Unemployed,13693,243580,6,Business,617,1,2,1,1,Enugu,1
+CUST00146,33,Male,Unemployed,37589,129306,3,Travel,628,1,0,0,0,Enugu,1
+CUST00147,21,Male,Self-employed,65177,160572,6,Education,501,1,1,0,1,Kano,1
+CUST00148,21,Female,Employed,152743,70379,6,Medical,731,1,1,0,1,Abuja,0
+CUST00149,53,Female,Self-employed,67095,409716,9,Business,584,1,1,0,1,Enugu,0
+CUST00150,45,Male,Unemployed,22980,309380,3,Business,533,1,2,0,1,Ibadan,1
+CUST00151,36,Female,Self-employed,117422,406669,12,Business,689,1,0,0,0,Lagos,0
+CUST00152,51,Female,Student,32340,97438,12,Education,410,1,0,0,1,Kano,1
+CUST00153,30,Male,Employed,147351,494014,9,Education,850,0,1,0,1,Lagos,0
+CUST00154,56,Male,Student,25213,305577,12,Business,548,1,2,1,1,Ibadan,1
+CUST00155,50,Male,Self-employed,74028,44017,6,Travel,477,1,0,0,0,Kano,0
+CUST00156,55,Male,Self-employed,167585,123106,3,Travel,687,1,0,0,0,Port Harcourt,0
+CUST00157,52,Male,Student,18697,39469,12,Education,772,1,1,0,0,Kano,0
+CUST00158,47,Female,Unemployed,45834,180310,18,Travel,569,1,2,0,0,Lagos,0
+CUST00159,57,Male,Self-employed,69868,339063,6,Medical,678,0,0,0,1,Enugu,0
+CUST00160,29,Male,Self-employed,128324,27718,6,Rent,695,1,0,0,0,Ibadan,0
+CUST00161,26,Male,Self-employed,152402,147054,3,Education,603,1,1,1,1,Port Harcourt,0
+CUST00162,59,Female,Unemployed,10000,274468,3,Rent,602,1,1,1,0,Kano,1
+CUST00163,31,Female,Student,19125,95027,3,Rent,524,1,0,0,1,Kano,0
+CUST00164,42,Male,Student,10154,307121,3,Travel,578,0,2,2,1,Abuja,1
+CUST00165,51,Male,Unemployed,35077,221923,6,Business,605,1,1,0,1,Lagos,1
+CUST00166,19,Male,Unemployed,20334,40061,18,Travel,641,1,1,1,0,Kano,1
+CUST00167,26,Female,Employed,113076,46568,12,Medical,573,1,0,0,1,Enugu,0
+CUST00168,21,Female,Unemployed,14657,315708,18,Travel,691,1,1,1,1,Port Harcourt,1
+CUST00169,24,Female,Employed,91680,96674,18,Business,850,1,1,0,1,Port Harcourt,0
+CUST00170,38,Female,Unemployed,24537,272301,3,Business,639,1,0,0,1,Abuja,0
+CUST00171,49,Male,Unemployed,20058,278500,18,Business,596,1,1,0,0,Abuja,1
+CUST00172,35,Female,Student,10000,203293,9,Rent,555,1,4,2,1,Ibadan,1
+CUST00173,27,Female,Student,19561,392773,3,Education,615,1,1,0,0,Kano,0
+CUST00174,40,Female,Unemployed,18087,371342,9,Business,606,1,1,0,1,Abuja,1
+CUST00175,41,Female,Student,10000,236353,12,Medical,618,1,3,1,1,Enugu,0
+CUST00176,25,Female,Employed,179881,316085,12,Business,524,1,0,0,1,Kano,0
+CUST00177,58,Female,Unemployed,29728,448949,3,Education,657,1,0,0,0,Ibadan,0
+CUST00178,49,Male,Student,23729,331674,12,Business,659,0,0,0,0,Abuja,1
+CUST00179,31,Female,Student,30281,472107,12,Business,489,1,0,0,1,Abuja,1
+CUST00180,52,Female,Self-employed,51501,440841,9,Education,713,1,1,0,1,Enugu,0
+CUST00181,24,Female,Employed,183743,141972,3,Travel,520,1,1,0,0,Abuja,0
+CUST00182,32,Male,Unemployed,42382,369072,18,Business,602,1,1,0,1,Ibadan,0
+CUST00183,56,Female,Employed,180058,222562,6,Business,620,0,2,1,0,Port Harcourt,1
+CUST00184,59,Male,Self-employed,48258,373750,12,Medical,707,1,2,1,1,Ibadan,0
+CUST00185,29,Female,Student,16075,479456,12,Education,664,1,0,0,0,Abuja,0
+CUST00186,54,Female,Self-employed,88496,325248,12,Rent,505,1,0,0,1,Ibadan,1
+CUST00187,56,Male,Employed,184996,55565,9,Education,542,1,1,0,1,Kano,0
+CUST00188,21,Female,Employed,149400,303690,9,Medical,533,1,0,0,1,Ibadan,1
+CUST00189,41,Female,Self-employed,144636,356763,12,Travel,535,1,1,0,0,Port Harcourt,0
+CUST00190,35,Female,Unemployed,24173,402669,18,Travel,582,1,1,0,1,Port Harcourt,0
+CUST00191,44,Female,Unemployed,38500,475653,6,Rent,687,1,2,1,1,Ibadan,1
+CUST00192,23,Female,Self-employed,24161,470932,12,Business,617,1,2,0,1,Kano,0
+CUST00193,22,Female,Student,24546,34422,12,Rent,742,1,2,0,0,Port Harcourt,1
+CUST00194,48,Male,Self-employed,97850,16567,18,Travel,681,1,0,0,0,Kano,0
+CUST00195,31,Male,Student,15798,382105,3,Travel,507,1,1,0,0,Port Harcourt,1
+CUST00196,38,Male,Self-employed,10000,180198,12,Rent,688,1,0,0,1,Lagos,0
+CUST00197,24,Female,Unemployed,41597,395979,9,Travel,562,1,2,1,0,Enugu,1
+CUST00198,42,Female,Employed,131779,53531,9,Travel,762,1,2,0,1,Port Harcourt,0
+CUST00199,34,Female,Student,13310,424990,18,Business,655,1,0,0,0,Ibadan,1
+CUST00200,33,Male,Self-employed,170794,277261,9,Rent,496,0,2,0,1,Enugu,1
+CUST00201,24,Male,Student,20642,381628,3,Business,706,1,0,0,1,Port Harcourt,1
+CUST00202,31,Male,Unemployed,27081,492644,3,Business,443,1,0,0,1,Kano,0
+CUST00203,50,Male,Unemployed,42645,192247,9,Medical,553,1,1,0,0,Port Harcourt,1
+CUST00204,25,Male,Self-employed,136769,293020,18,Education,533,1,1,1,1,Ibadan,1
+CUST00205,37,Male,Self-employed,50847,310601,6,Business,621,1,1,0,1,Ibadan,0
+CUST00206,25,Female,Self-employed,111919,84531,12,Travel,676,1,1,1,1,Abuja,0
+CUST00207,33,Male,Student,19954,69992,9,Education,630,1,0,0,1,Kano,0
+CUST00208,44,Male,Student,16982,24388,9,Travel,627,1,0,0,1,Abuja,1
+CUST00209,26,Male,Student,20842,358018,9,Travel,731,1,2,0,1,Kano,0
+CUST00210,45,Female,Unemployed,13760,65342,12,Medical,616,0,1,1,1,Abuja,1
+CUST00211,28,Female,Student,26085,182663,3,Rent,752,1,2,0,1,Port Harcourt,1
+CUST00212,57,Female,Unemployed,34695,495953,9,Business,499,0,0,0,1,Enugu,1
+CUST00213,32,Female,Unemployed,40286,469769,3,Travel,468,1,3,2,1,Enugu,1
+CUST00214,44,Male,Student,12195,121097,9,Rent,457,1,0,0,1,Ibadan,1
+CUST00215,42,Female,Self-employed,83775,483459,6,Travel,593,0,4,3,1,Kano,0
+CUST00216,36,Male,Employed,161018,57301,3,Medical,783,1,0,0,0,Port Harcourt,0
+CUST00217,52,Male,Unemployed,37454,303416,6,Business,511,0,2,0,1,Kano,1
+CUST00218,33,Female,Student,23671,26988,6,Rent,535,1,3,2,1,Abuja,1
+CUST00219,26,Female,Unemployed,32651,416350,6,Medical,664,1,1,0,0,Port Harcourt,1
+CUST00220,32,Female,Unemployed,38858,227256,3,Education,623,1,2,0,1,Lagos,1
+CUST00221,39,Male,Self-employed,64160,241719,12,Travel,506,1,0,0,1,Kano,1
+CUST00222,29,Male,Student,24032,127039,3,Medical,620,1,1,0,1,Ibadan,1
+CUST00223,37,Male,Student,20412,12697,9,Medical,454,0,0,0,0,Ibadan,1
+CUST00224,38,Female,Unemployed,15492,204430,3,Rent,568,0,0,0,0,Port Harcourt,0
+CUST00225,38,Male,Unemployed,31035,438369,18,Rent,383,1,2,0,0,Enugu,1
+CUST00226,29,Male,Student,21719,136504,9,Education,676,1,0,0,1,Lagos,0
+CUST00227,42,Male,Employed,135508,136227,3,Medical,614,0,2,0,1,Port Harcourt,0
+CUST00228,36,Male,Employed,183961,451157,6,Travel,819,1,0,0,1,Abuja,0
+CUST00229,27,Female,Student,25880,14964,9,Travel,426,1,3,0,1,Port Harcourt,1
+CUST00230,33,Male,Student,21584,229938,3,Education,790,0,1,1,0,Ibadan,1
+CUST00231,41,Female,Unemployed,39694,349321,3,Medical,642,1,1,0,1,Abuja,1
+CUST00232,51,Female,Student,15355,293840,6,Medical,384,1,0,0,0,Lagos,1
+CUST00233,53,Female,Unemployed,35768,260723,3,Education,360,0,1,1,1,Kano,1
+CUST00234,27,Male,Employed,189309,176896,12,Business,739,0,1,0,1,Enugu,0
+CUST00235,29,Male,Employed,121854,92006,3,Medical,614,1,0,0,1,Abuja,0
+CUST00236,43,Male,Self-employed,56074,21442,3,Travel,563,1,1,1,0,Abuja,0
+CUST00237,54,Male,Self-employed,10000,497480,9,Rent,477,1,0,0,0,Ibadan,1
+CUST00238,49,Male,Unemployed,35289,85531,6,Rent,396,1,2,0,0,Ibadan,1
+CUST00239,38,Female,Self-employed,49541,483544,3,Business,513,1,0,0,0,Abuja,1
+CUST00240,51,Male,Unemployed,10000,496985,6,Travel,571,1,1,0,0,Kano,1
+CUST00241,45,Male,Self-employed,118202,454401,9,Business,676,0,1,0,1,Abuja,1
+CUST00242,28,Female,Employed,129644,343570,3,Education,607,1,0,0,1,Port Harcourt,0
+CUST00243,49,Female,Employed,92255,250794,12,Travel,592,1,1,0,1,Abuja,0
+CUST00244,34,Male,Unemployed,41939,384618,12,Business,566,1,1,0,1,Lagos,1
+CUST00245,50,Female,Student,19323,260111,12,Business,700,1,1,0,1,Port Harcourt,0
+CUST00246,27,Female,Employed,137701,185770,3,Medical,525,1,0,0,1,Ibadan,1
+CUST00247,36,Male,Employed,146288,320124,6,Medical,564,0,0,0,1,Ibadan,0
+CUST00248,18,Female,Student,21757,53416,18,Travel,707,1,0,0,1,Kano,1
+CUST00249,52,Female,Student,30547,292749,3,Business,678,1,0,0,1,Enugu,0
+CUST00250,34,Male,Student,27275,356472,12,Rent,600,0,0,0,0,Port Harcourt,1
+CUST00251,56,Female,Student,12036,84641,12,Education,524,1,0,0,1,Enugu,1
+CUST00252,47,Male,Unemployed,30599,185328,12,Medical,627,1,0,0,1,Enugu,1
+CUST00253,27,Female,Unemployed,32192,322174,6,Education,728,1,1,0,0,Lagos,0
+CUST00254,21,Male,Employed,161772,142990,3,Education,549,1,0,0,1,Lagos,1
+CUST00255,29,Female,Self-employed,65189,102629,18,Business,578,1,3,1,0,Ibadan,0
+CUST00256,46,Female,Employed,155547,434608,12,Medical,494,1,2,0,1,Enugu,0
+CUST00257,34,Female,Employed,148033,199947,9,Travel,798,1,1,0,1,Kano,0
+CUST00258,50,Female,Employed,130251,341293,18,Travel,560,1,0,0,1,Abuja,0
+CUST00259,34,Male,Student,22039,255196,6,Business,587,1,1,0,0,Kano,1
+CUST00260,58,Female,Employed,156597,213740,9,Travel,467,1,1,1,1,Abuja,0
+CUST00261,40,Female,Employed,103387,76934,18,Medical,681,1,1,0,0,Lagos,0
+CUST00262,18,Male,Unemployed,26713,190215,9,Medical,660,0,0,0,0,Kano,0
+CUST00263,30,Male,Self-employed,38987,19470,6,Travel,486,0,1,0,1,Enugu,1
+CUST00264,41,Female,Employed,168510,30411,6,Business,636,1,1,0,0,Lagos,0
+CUST00265,29,Male,Student,23364,68901,12,Education,659,1,0,0,1,Kano,0
+CUST00266,29,Male,Unemployed,31647,425059,9,Medical,605,0,3,1,0,Ibadan,1
+CUST00267,58,Male,Employed,154504,241966,6,Rent,663,0,3,1,1,Ibadan,0
+CUST00268,49,Male,Employed,143828,120436,9,Education,534,0,0,0,1,Enugu,0
+CUST00269,28,Female,Student,20106,454146,18,Education,637,0,3,1,1,Port Harcourt,1
+CUST00270,43,Female,Self-employed,66594,75794,18,Business,808,1,1,0,1,Kano,0
+CUST00271,55,Female,Employed,110772,234712,9,Travel,619,1,3,0,1,Port Harcourt,0
+CUST00272,48,Female,Employed,151438,137175,6,Education,633,1,1,0,1,Ibadan,0
+CUST00273,46,Male,Employed,150800,488880,6,Medical,657,1,0,0,1,Abuja,0
+CUST00274,18,Male,Unemployed,44858,480482,9,Medical,577,1,3,1,1,Lagos,0
+CUST00275,38,Male,Student,16521,425540,12,Rent,491,1,0,0,0,Abuja,1
+CUST00276,30,Female,Self-employed,99711,261232,18,Travel,661,1,1,0,0,Enugu,0
+CUST00277,43,Female,Employed,185758,132990,12,Business,540,1,0,0,0,Port Harcourt,1
+CUST00278,37,Male,Student,20071,118217,3,Medical,504,0,0,0,1,Ibadan,1
+CUST00279,46,Female,Student,28417,286029,12,Medical,547,1,0,0,0,Lagos,1
+CUST00280,24,Female,Employed,140521,383923,9,Rent,710,1,2,0,0,Ibadan,0
+CUST00281,45,Female,Unemployed,16188,154668,3,Education,738,1,1,1,0,Lagos,1
+CUST00282,46,Male,Student,23401,84281,18,Education,719,1,1,0,0,Ibadan,1
+CUST00283,58,Male,Student,16621,486808,9,Medical,603,1,0,0,0,Abuja,1
+CUST00284,21,Female,Self-employed,148694,425728,3,Travel,682,1,0,0,1,Enugu,0
+CUST00285,31,Male,Self-employed,85655,499776,9,Medical,517,1,0,0,1,Enugu,1
+CUST00286,33,Male,Self-employed,103412,357567,3,Rent,519,0,3,0,1,Kano,1
+CUST00287,42,Male,Self-employed,106880,392558,18,Rent,494,1,0,0,1,Enugu,1
+CUST00288,32,Male,Self-employed,87173,461287,12,Education,779,1,2,1,0,Ibadan,0
+CUST00289,23,Female,Unemployed,20579,68248,9,Rent,645,1,1,0,0,Port Harcourt,0
+CUST00290,53,Male,Student,23477,198333,12,Medical,684,0,1,1,1,Kano,1
+CUST00291,21,Male,Unemployed,30539,356034,18,Business,850,1,1,0,1,Kano,1
+CUST00292,52,Female,Student,20935,341804,3,Business,622,1,0,0,1,Kano,1
+CUST00293,31,Female,Employed,183347,418086,3,Travel,793,1,0,0,0,Ibadan,0
+CUST00294,28,Female,Student,18167,468147,18,Travel,471,1,2,0,0,Enugu,1
+CUST00295,39,Male,Student,17838,193221,18,Rent,583,1,2,0,1,Kano,0
+CUST00296,37,Female,Self-employed,61449,221689,3,Education,504,1,0,0,0,Lagos,0
+CUST00297,22,Female,Employed,151316,103009,18,Rent,637,1,0,0,0,Lagos,0
+CUST00298,51,Male,Student,11262,150856,12,Travel,587,1,2,0,1,Ibadan,1
+CUST00299,37,Male,Unemployed,46734,327767,9,Medical,734,1,0,0,0,Port Harcourt,0
+CUST00300,50,Female,Unemployed,38564,267620,18,Business,776,1,0,0,0,Enugu,1
+CUST00301,32,Female,Employed,106664,34739,9,Business,743,1,1,0,1,Ibadan,0
+CUST00302,26,Female,Unemployed,26146,339505,9,Travel,642,1,0,0,1,Abuja,1
+CUST00303,38,Female,Employed,146055,136768,18,Rent,682,1,1,0,1,Kano,0
+CUST00304,59,Female,Student,15211,330457,6,Travel,664,1,0,0,0,Enugu,1
+CUST00305,22,Male,Unemployed,20268,115518,18,Education,412,1,1,0,1,Enugu,1
+CUST00306,53,Female,Self-employed,103038,108138,18,Business,674,1,2,0,0,Enugu,0
+CUST00307,23,Female,Unemployed,24036,433944,3,Medical,707,1,1,1,1,Kano,0
+CUST00308,55,Male,Self-employed,35385,328167,9,Education,396,1,0,0,0,Abuja,1
+CUST00309,30,Male,Self-employed,101015,37526,6,Business,408,1,1,1,1,Kano,0
+CUST00310,18,Male,Employed,194631,471840,9,Travel,608,1,2,1,0,Abuja,0
+CUST00311,44,Female,Self-employed,217963,184874,6,Rent,724,1,2,2,1,Enugu,0
+CUST00312,59,Male,Student,12949,123573,3,Education,521,1,1,1,0,Kano,1
+CUST00313,22,Male,Student,24609,430794,18,Medical,648,1,1,0,1,Enugu,1
+CUST00314,40,Female,Self-employed,163794,432856,18,Rent,553,1,1,0,0,Kano,0
+CUST00315,49,Female,Self-employed,88759,183592,9,Travel,642,0,0,0,1,Port Harcourt,0
+CUST00316,36,Female,Unemployed,41988,290236,12,Travel,521,1,1,1,1,Ibadan,1
+CUST00317,59,Female,Self-employed,100017,211859,6,Travel,470,1,1,0,1,Abuja,1
+CUST00318,46,Female,Employed,160638,261019,12,Medical,595,0,4,1,1,Ibadan,0
+CUST00319,20,Male,Employed,210858,347429,9,Business,695,1,0,0,1,Abuja,0
+CUST00320,39,Female,Student,19734,173477,18,Rent,722,1,1,1,1,Port Harcourt,1
+CUST00321,47,Male,Self-employed,64118,30572,12,Medical,532,1,0,0,1,Lagos,0
+CUST00322,35,Female,Employed,186002,222401,12,Travel,550,1,1,0,0,Kano,0
+CUST00323,21,Male,Student,28808,331797,3,Medical,571,1,0,0,1,Abuja,0
+CUST00324,45,Male,Unemployed,22368,60802,3,Medical,624,0,1,0,1,Abuja,1
+CUST00325,49,Male,Employed,115672,338867,9,Education,605,1,1,0,1,Enugu,0
+CUST00326,34,Male,Student,23196,222249,12,Travel,453,1,2,0,1,Lagos,1
+CUST00327,33,Male,Employed,131090,128335,9,Rent,499,1,2,0,0,Abuja,0
+CUST00328,29,Female,Employed,95452,479663,9,Rent,392,1,1,0,1,Kano,1
+CUST00329,47,Male,Employed,125477,350374,6,Education,539,1,1,0,1,Enugu,0
+CUST00330,40,Female,Employed,172179,83797,3,Education,681,1,1,0,1,Ibadan,0
+CUST00331,23,Male,Self-employed,45687,261958,6,Medical,567,1,1,0,1,Port Harcourt,0
+CUST00332,55,Male,Unemployed,41613,405265,6,Travel,518,1,1,0,1,Port Harcourt,1
+CUST00333,28,Male,Employed,186443,287428,18,Medical,540,1,1,0,1,Lagos,0
+CUST00334,49,Male,Student,16147,260701,12,Business,559,0,2,0,0,Enugu,1
+CUST00335,36,Female,Unemployed,47687,200722,9,Business,550,1,3,1,0,Kano,0
+CUST00336,29,Male,Unemployed,41408,235971,6,Business,598,1,3,2,0,Ibadan,0
+CUST00337,22,Female,Self-employed,106297,487381,3,Medical,551,0,2,0,0,Ibadan,1
+CUST00338,34,Female,Self-employed,86594,19380,12,Education,634,1,2,1,1,Enugu,0
+CUST00339,43,Male,Self-employed,55872,290577,3,Education,568,1,2,0,0,Lagos,0
+CUST00340,57,Female,Self-employed,106572,311994,3,Rent,589,1,2,2,1,Lagos,0
+CUST00341,40,Female,Unemployed,38953,498646,18,Education,536,0,3,2,0,Ibadan,1
+CUST00342,56,Female,Unemployed,10000,337961,3,Rent,474,1,0,0,1,Kano,1
+CUST00343,51,Female,Employed,129645,471767,9,Medical,596,0,1,1,0,Lagos,1
+CUST00344,40,Female,Student,16936,156697,12,Education,705,1,0,0,0,Port Harcourt,0
+CUST00345,49,Female,Self-employed,107971,47475,12,Education,628,1,0,0,1,Kano,0
+CUST00346,49,Female,Employed,147717,392472,12,Business,478,1,0,0,0,Port Harcourt,0
+CUST00347,18,Male,Unemployed,11142,412966,9,Business,560,0,1,1,1,Lagos,1
+CUST00348,57,Female,Unemployed,19209,32031,9,Education,658,0,3,1,1,Ibadan,1
+CUST00349,29,Female,Self-employed,149875,187087,12,Medical,593,1,1,0,1,Port Harcourt,0
+CUST00350,30,Male,Unemployed,47291,261319,18,Education,607,1,2,1,0,Kano,1
+CUST00351,45,Male,Employed,156977,250474,12,Medical,578,1,2,1,0,Ibadan,0
+CUST00352,49,Male,Employed,134030,52638,6,Travel,719,1,2,1,0,Enugu,1
+CUST00353,37,Female,Employed,124842,10320,6,Business,511,1,3,1,0,Abuja,1
+CUST00354,25,Female,Unemployed,20634,126691,12,Travel,533,1,1,1,0,Lagos,1
+CUST00355,35,Male,Student,29436,468234,9,Medical,611,1,1,0,1,Port Harcourt,1
+CUST00356,34,Male,Self-employed,196401,456196,18,Medical,622,1,1,0,1,Port Harcourt,0
+CUST00357,18,Female,Unemployed,36492,115595,6,Business,675,1,1,1,0,Lagos,0
+CUST00358,29,Male,Student,26106,202125,18,Education,551,1,0,0,0,Ibadan,0
+CUST00359,38,Male,Unemployed,15655,377218,9,Education,494,1,0,0,1,Abuja,1
+CUST00360,38,Female,Student,20458,467270,6,Business,625,1,2,1,1,Abuja,0
+CUST00361,21,Male,Student,23385,176487,6,Education,575,1,2,0,1,Lagos,1
+CUST00362,57,Female,Unemployed,38502,53604,3,Travel,554,1,3,0,0,Ibadan,1
+CUST00363,29,Female,Unemployed,21197,229901,6,Rent,473,1,0,0,0,Kano,0
+CUST00364,37,Male,Employed,164000,453136,6,Rent,752,1,1,0,0,Abuja,0
+CUST00365,43,Female,Employed,171812,184816,9,Travel,644,1,0,0,0,Ibadan,0
+CUST00366,19,Female,Student,17355,220679,18,Rent,494,1,0,0,1,Ibadan,1
+CUST00367,32,Male,Employed,173273,295966,9,Education,737,1,0,0,0,Enugu,0
+CUST00368,44,Female,Student,29547,450209,12,Travel,680,1,0,0,1,Lagos,0
+CUST00369,22,Male,Unemployed,22684,296688,3,Education,575,1,3,2,0,Port Harcourt,0
+CUST00370,30,Female,Self-employed,30226,469774,18,Travel,658,1,1,1,1,Abuja,1
+CUST00371,48,Male,Student,20647,234385,18,Business,569,1,1,0,0,Lagos,0
+CUST00372,34,Male,Unemployed,25116,35375,6,Rent,642,1,0,0,0,Kano,0
+CUST00373,52,Male,Unemployed,24444,406118,18,Medical,469,1,1,0,1,Lagos,1
+CUST00374,39,Female,Self-employed,94319,304824,18,Medical,524,1,0,0,1,Abuja,0
+CUST00375,21,Female,Employed,201703,43540,18,Rent,649,1,0,0,1,Ibadan,0
+CUST00376,34,Male,Self-employed,51040,343862,18,Travel,667,1,0,0,1,Kano,0
+CUST00377,18,Male,Employed,197881,270513,3,Business,564,1,0,0,0,Enugu,0
+CUST00378,33,Female,Self-employed,52005,440871,18,Education,570,1,0,0,1,Ibadan,0
+CUST00379,19,Male,Student,21126,318612,18,Medical,669,1,2,0,1,Enugu,0
+CUST00380,40,Female,Student,20759,423886,6,Education,725,1,1,0,1,Kano,0
+CUST00381,49,Female,Employed,164982,115450,3,Rent,571,1,2,1,0,Port Harcourt,1
+CUST00382,36,Female,Student,26540,404660,12,Rent,482,1,1,0,1,Kano,1
+CUST00383,29,Male,Unemployed,42823,68989,9,Medical,708,1,0,0,0,Port Harcourt,1
+CUST00384,40,Male,Unemployed,18382,93758,18,Travel,571,1,2,0,0,Lagos,1
+CUST00385,31,Female,Self-employed,81599,47635,12,Business,504,1,2,0,0,Kano,1
+CUST00386,59,Female,Self-employed,93669,430397,6,Business,597,1,2,0,1,Lagos,0
+CUST00387,21,Female,Student,20206,144867,18,Education,644,1,0,0,0,Abuja,0
+CUST00388,57,Male,Unemployed,28163,90034,18,Medical,516,1,0,0,0,Abuja,1
+CUST00389,53,Male,Student,10072,436637,18,Education,538,0,0,0,0,Port Harcourt,1
+CUST00390,54,Female,Student,19393,349964,3,Business,776,1,0,0,0,Port Harcourt,0
+CUST00391,46,Female,Self-employed,81636,186926,6,Travel,530,1,1,0,0,Kano,0
+CUST00392,30,Male,Employed,111185,162836,9,Education,476,0,0,0,1,Ibadan,0
+CUST00393,37,Female,Unemployed,39784,204526,18,Business,652,0,1,0,0,Lagos,1
+CUST00394,59,Female,Self-employed,109835,67467,9,Medical,304,0,0,0,1,Port Harcourt,0
+CUST00395,48,Female,Employed,218449,211483,12,Business,538,1,0,0,1,Ibadan,1
+CUST00396,48,Male,Unemployed,39280,282533,18,Medical,654,1,0,0,0,Lagos,0
+CUST00397,45,Female,Student,22762,392650,18,Medical,489,1,1,0,0,Ibadan,1
+CUST00398,28,Male,Self-employed,81875,341477,3,Education,689,1,2,0,0,Kano,0
+CUST00399,27,Female,Unemployed,19498,316411,6,Rent,675,1,0,0,0,Ibadan,0
+CUST00400,37,Female,Employed,130285,498485,3,Business,634,0,1,0,0,Abuja,0
+CUST00401,51,Female,Student,19689,390953,18,Education,722,1,1,0,1,Abuja,1
+CUST00402,32,Male,Unemployed,31847,286320,18,Medical,693,1,0,0,1,Abuja,1
+CUST00403,29,Female,Unemployed,31331,495812,18,Medical,586,1,3,2,1,Ibadan,1
+CUST00404,40,Female,Unemployed,36526,320518,12,Business,486,1,0,0,0,Kano,1
+CUST00405,31,Female,Employed,147498,165948,12,Travel,300,1,1,0,1,Kano,1
+CUST00406,52,Male,Student,13512,16319,9,Travel,524,1,3,0,1,Ibadan,1
+CUST00407,22,Male,Employed,108332,56532,18,Education,540,1,0,0,1,Abuja,0
+CUST00408,46,Female,Self-employed,96385,166813,6,Business,697,1,0,0,1,Ibadan,0
+CUST00409,50,Male,Self-employed,63322,293461,3,Education,632,1,3,1,1,Kano,1
+CUST00410,39,Female,Self-employed,96777,400289,12,Rent,404,1,0,0,1,Port Harcourt,1
+CUST00411,40,Female,Employed,183655,52155,6,Travel,832,0,0,0,1,Abuja,0
+CUST00412,43,Female,Student,21900,266374,18,Education,582,1,1,0,0,Kano,0
+CUST00413,25,Male,Student,27949,188763,18,Medical,657,1,1,1,1,Ibadan,1
+CUST00414,54,Female,Unemployed,19736,341074,18,Education,723,1,1,0,1,Abuja,1
+CUST00415,40,Male,Unemployed,37708,179356,18,Medical,424,1,1,0,0,Abuja,1
+CUST00416,20,Female,Unemployed,10000,206345,6,Education,531,0,1,0,1,Kano,1
+CUST00417,55,Female,Unemployed,10000,367941,18,Medical,480,0,0,0,0,Kano,1
+CUST00418,55,Male,Student,17990,89643,12,Medical,673,1,0,0,1,Abuja,1
+CUST00419,24,Female,Employed,179876,292720,9,Business,625,1,2,1,1,Kano,0
+CUST00420,46,Female,Unemployed,29260,222058,12,Rent,592,1,0,0,1,Abuja,0
+CUST00421,21,Female,Unemployed,23764,397790,6,Business,499,1,0,0,0,Ibadan,1
+CUST00422,43,Male,Self-employed,117439,294516,3,Travel,346,1,1,1,1,Abuja,1
+CUST00423,26,Male,Employed,160815,182255,3,Education,452,1,0,0,0,Kano,1
+CUST00424,35,Female,Employed,111221,226862,6,Business,546,0,3,2,1,Ibadan,0
+CUST00425,23,Male,Student,10000,17137,12,Education,448,1,1,0,0,Enugu,1
+CUST00426,39,Male,Unemployed,31455,384209,9,Medical,538,1,0,0,0,Enugu,1
+CUST00427,20,Male,Employed,134484,199486,18,Rent,545,0,1,0,0,Ibadan,0
+CUST00428,37,Male,Self-employed,90740,22646,12,Rent,598,1,2,0,0,Lagos,0
+CUST00429,24,Female,Student,30518,32336,6,Medical,659,1,1,0,0,Lagos,1
+CUST00430,43,Male,Unemployed,37849,91376,18,Travel,711,0,2,2,0,Lagos,1
+CUST00431,45,Female,Unemployed,18864,249925,12,Travel,777,1,0,0,0,Ibadan,1
+CUST00432,20,Female,Self-employed,102092,481947,18,Education,649,0,1,0,1,Kano,0
+CUST00433,27,Male,Employed,107879,461992,9,Rent,850,0,0,0,1,Enugu,0
+CUST00434,43,Female,Unemployed,30452,120082,6,Business,605,1,2,1,0,Enugu,1
+CUST00435,45,Female,Unemployed,22285,265723,18,Rent,739,0,0,0,1,Abuja,0
+CUST00436,57,Female,Student,10000,264609,18,Medical,710,1,0,0,0,Lagos,1
+CUST00437,39,Female,Employed,191042,247063,6,Rent,483,1,0,0,1,Port Harcourt,1
+CUST00438,56,Female,Self-employed,183833,112952,3,Medical,759,1,0,0,1,Port Harcourt,0
+CUST00439,23,Male,Student,25921,212077,9,Medical,518,0,1,0,0,Kano,1
+CUST00440,45,Male,Unemployed,33467,151210,9,Rent,850,0,1,1,0,Lagos,1
+CUST00441,57,Male,Student,21028,39841,9,Rent,496,0,1,0,0,Port Harcourt,1
+CUST00442,42,Female,Employed,178086,302503,9,Medical,618,1,1,1,1,Ibadan,1
+CUST00443,51,Male,Self-employed,120696,198518,6,Education,543,1,1,0,1,Abuja,1
+CUST00444,48,Female,Unemployed,30712,114857,12,Travel,470,1,1,0,1,Port Harcourt,1
+CUST00445,26,Male,Self-employed,58813,173062,18,Business,509,1,3,2,0,Ibadan,0
+CUST00446,48,Female,Unemployed,33476,166674,3,Travel,507,0,0,0,1,Lagos,1
+CUST00447,53,Male,Self-employed,181992,127142,18,Travel,600,1,1,0,0,Abuja,0
+CUST00448,56,Male,Unemployed,27973,193234,18,Education,526,1,0,0,0,Lagos,1
+CUST00449,19,Male,Student,19625,319689,3,Travel,648,1,0,0,0,Port Harcourt,1
+CUST00450,22,Male,Student,17493,141889,6,Travel,458,0,2,1,1,Port Harcourt,1
+CUST00451,36,Female,Employed,146288,176227,18,Education,645,0,1,0,0,Enugu,0
+CUST00452,59,Female,Employed,173403,436944,12,Medical,608,1,0,0,0,Lagos,0
+CUST00453,42,Male,Employed,154590,123327,3,Education,559,1,0,0,0,Kano,0
+CUST00454,43,Male,Employed,157489,125455,3,Education,543,1,1,1,1,Lagos,0
+CUST00455,46,Female,Student,24227,133634,6,Rent,715,1,0,0,1,Enugu,0
+CUST00456,55,Female,Unemployed,35391,321663,12,Education,697,1,1,0,1,Port Harcourt,0
+CUST00457,20,Female,Employed,132207,421038,18,Rent,631,1,1,1,1,Enugu,1
+CUST00458,31,Female,Employed,134577,181400,6,Travel,579,1,0,0,1,Port Harcourt,0
+CUST00459,51,Male,Self-employed,79017,78234,3,Business,735,0,2,0,0,Kano,0
+CUST00460,24,Female,Student,20076,258801,18,Education,704,0,1,0,1,Abuja,1
+CUST00461,46,Male,Student,10000,410635,9,Rent,512,1,2,0,0,Kano,0
+CUST00462,56,Male,Employed,176897,497909,3,Education,432,1,1,0,0,Ibadan,0
+CUST00463,19,Male,Self-employed,119152,92229,6,Business,667,0,0,0,1,Lagos,0
+CUST00464,41,Male,Student,14675,45771,18,Business,520,1,1,1,1,Abuja,1
+CUST00465,51,Male,Student,19467,403176,12,Rent,554,1,1,0,1,Ibadan,0
+CUST00466,47,Male,Employed,143627,494531,6,Travel,750,1,2,1,1,Kano,0
+CUST00467,46,Male,Unemployed,20246,13421,18,Travel,730,1,0,0,0,Enugu,0
+CUST00468,55,Female,Self-employed,104623,100610,9,Rent,488,1,0,0,0,Enugu,0
+CUST00469,28,Male,Student,19920,171776,9,Medical,691,0,1,0,0,Lagos,1
+CUST00470,42,Male,Student,15081,169878,18,Education,699,0,1,1,0,Lagos,1
+CUST00471,18,Female,Student,22930,92716,18,Medical,558,1,0,0,1,Enugu,0
+CUST00472,34,Female,Student,16803,151594,6,Medical,510,1,1,0,1,Port Harcourt,1
+CUST00473,34,Male,Student,27229,372339,6,Rent,601,1,0,0,0,Kano,1
+CUST00474,50,Male,Student,18085,97756,3,Travel,587,1,1,1,0,Port Harcourt,0
+CUST00475,33,Female,Self-employed,73195,317557,12,Rent,717,0,0,0,1,Kano,0
+CUST00476,49,Male,Unemployed,34710,411958,3,Education,621,1,3,1,1,Kano,1
+CUST00477,50,Male,Self-employed,75427,156949,3,Medical,529,1,2,1,0,Port Harcourt,1
+CUST00478,19,Male,Employed,159990,212422,6,Travel,365,0,1,0,1,Enugu,0
+CUST00479,55,Male,Student,21074,111457,6,Medical,459,1,0,0,0,Kano,1
+CUST00480,41,Male,Self-employed,118916,89230,6,Business,578,1,0,0,1,Enugu,0
+CUST00481,41,Female,Self-employed,62897,303692,18,Rent,706,1,1,0,1,Port Harcourt,0
+CUST00482,26,Male,Unemployed,29914,116123,9,Education,401,1,0,0,1,Port Harcourt,1
+CUST00483,35,Female,Unemployed,25652,459438,9,Medical,646,1,0,0,0,Ibadan,0
+CUST00484,43,Female,Student,25968,471086,3,Education,544,1,3,0,1,Kano,1
+CUST00485,25,Male,Unemployed,22580,321024,9,Education,729,0,2,0,1,Lagos,1
+CUST00486,20,Male,Self-employed,96502,242799,3,Medical,654,1,2,0,0,Ibadan,0
+CUST00487,53,Female,Unemployed,16170,199970,6,Rent,481,0,3,1,1,Kano,1
+CUST00488,36,Male,Student,26247,43535,18,Rent,466,1,0,0,1,Port Harcourt,1
+CUST00489,57,Female,Unemployed,41645,176602,12,Education,591,1,0,0,1,Port Harcourt,1
+CUST00490,20,Male,Unemployed,35152,272320,6,Rent,516,1,0,0,0,Enugu,1
+CUST00491,28,Female,Self-employed,116417,371984,18,Business,619,1,0,0,0,Ibadan,0
+CUST00492,51,Male,Employed,138987,270910,3,Business,529,1,1,0,1,Port Harcourt,0
+CUST00493,22,Male,Self-employed,66627,170908,3,Rent,658,1,0,0,1,Lagos,0
+CUST00494,53,Male,Student,22765,101030,9,Business,545,0,1,0,0,Ibadan,1
+CUST00495,47,Female,Student,10000,371194,3,Business,602,0,1,1,0,Ibadan,1
+CUST00496,55,Female,Employed,124095,486506,3,Travel,596,1,1,0,1,Enugu,0
+CUST00497,49,Female,Unemployed,37177,195217,3,Travel,546,1,2,0,0,Enugu,1
+CUST00498,24,Female,Self-employed,147101,138580,3,Business,578,1,0,0,1,Ibadan,0
+CUST00499,41,Male,Self-employed,135689,123365,6,Travel,627,1,3,0,1,Ibadan,0
+CUST00500,35,Female,Unemployed,18488,381310,9,Education,316,1,0,0,0,Lagos,1
+CUST00501,22,Female,Student,14681,262499,12,Travel,530,0,3,2,1,Abuja,1
+CUST00502,24,Male,Unemployed,31241,71796,3,Business,670,1,1,1,1,Lagos,0
+CUST00503,30,Female,Student,15420,424035,12,Travel,486,1,1,0,1,Port Harcourt,1
+CUST00504,23,Male,Employed,103872,312144,6,Business,585,0,0,0,0,Port Harcourt,0
+CUST00505,57,Female,Unemployed,33984,165773,18,Business,643,0,1,0,1,Ibadan,1
+CUST00506,45,Male,Self-employed,92807,468343,6,Travel,616,1,2,2,0,Port Harcourt,0
+CUST00507,58,Female,Employed,167864,371887,3,Medical,541,0,1,0,1,Ibadan,0
+CUST00508,57,Male,Self-employed,59765,127117,9,Business,429,1,3,1,0,Abuja,1
+CUST00509,46,Male,Student,14578,373761,3,Medical,811,1,0,0,1,Abuja,1
+CUST00510,43,Male,Student,21115,340278,18,Medical,705,0,0,0,0,Port Harcourt,1
+CUST00511,21,Male,Employed,142708,348942,18,Medical,600,1,0,0,1,Lagos,0
+CUST00512,51,Male,Student,19466,186262,6,Business,714,1,1,1,0,Kano,1
+CUST00513,20,Female,Unemployed,24852,432850,3,Medical,624,1,0,0,1,Port Harcourt,0
+CUST00514,48,Female,Self-employed,78094,40480,9,Travel,555,1,0,0,1,Port Harcourt,0
+CUST00515,36,Female,Self-employed,61949,73244,18,Education,539,1,2,0,0,Lagos,0
+CUST00516,22,Female,Self-employed,99281,171323,3,Business,579,0,1,0,1,Kano,0
+CUST00517,18,Male,Student,15139,100307,6,Education,698,0,0,0,0,Kano,1
+CUST00518,57,Female,Employed,137501,393915,3,Business,593,0,2,1,1,Kano,1
+CUST00519,23,Female,Unemployed,30626,248829,9,Business,608,1,0,0,0,Abuja,0
+CUST00520,42,Male,Self-employed,34125,146714,12,Education,660,1,1,0,0,Ibadan,1
+CUST00521,55,Female,Employed,204704,202525,3,Business,576,1,0,0,1,Kano,0
+CUST00522,24,Male,Unemployed,49542,471762,12,Business,724,1,0,0,1,Kano,0
+CUST00523,22,Female,Student,29941,208766,3,Travel,828,0,3,0,1,Abuja,0
+CUST00524,35,Male,Student,21325,75330,6,Rent,535,1,1,1,0,Kano,1
+CUST00525,45,Female,Unemployed,44532,292479,12,Rent,592,1,1,0,1,Lagos,1
+CUST00526,49,Male,Student,20821,228303,9,Education,819,1,2,1,1,Kano,1
+CUST00527,51,Female,Employed,127286,234371,9,Medical,576,1,1,1,1,Abuja,1
+CUST00528,45,Female,Self-employed,135220,168264,12,Business,649,1,0,0,0,Abuja,0
+CUST00529,55,Female,Employed,162378,33477,12,Medical,539,1,1,1,1,Ibadan,0
+CUST00530,32,Female,Unemployed,32896,128384,12,Medical,604,1,2,1,0,Port Harcourt,1
+CUST00531,51,Male,Unemployed,28609,116618,9,Travel,720,0,1,0,0,Enugu,1
+CUST00532,19,Male,Student,18088,126988,9,Rent,531,1,1,0,0,Port Harcourt,1
+CUST00533,21,Female,Unemployed,27756,227753,12,Travel,702,1,1,0,1,Abuja,1
+CUST00534,31,Female,Student,17215,321459,9,Education,533,1,1,0,1,Kano,1
+CUST00535,20,Male,Self-employed,81372,366239,18,Travel,421,1,1,0,1,Abuja,0
+CUST00536,50,Male,Student,13451,288955,6,Education,403,0,0,0,1,Kano,1
+CUST00537,27,Male,Student,21621,35071,12,Rent,827,1,1,0,1,Enugu,1
+CUST00538,33,Female,Self-employed,56014,464595,9,Rent,589,1,1,1,1,Enugu,0
+CUST00539,42,Female,Student,17341,254778,3,Education,592,1,0,0,0,Ibadan,0
+CUST00540,54,Female,Student,11288,277259,18,Travel,545,0,2,0,0,Enugu,1
+CUST00541,47,Female,Employed,113612,456225,9,Travel,686,1,0,0,1,Ibadan,0
+CUST00542,44,Male,Employed,141323,450712,6,Medical,453,0,1,1,1,Abuja,1
+CUST00543,36,Male,Student,15486,323162,9,Education,694,1,1,0,1,Lagos,1
+CUST00544,28,Male,Employed,172900,487475,9,Rent,651,1,0,0,1,Ibadan,0
+CUST00545,52,Male,Student,11732,386259,9,Education,626,1,1,0,0,Port Harcourt,0
+CUST00546,27,Male,Unemployed,28957,239822,3,Education,536,1,1,0,0,Lagos,0
+CUST00547,20,Female,Student,10000,344430,3,Business,566,1,1,0,0,Enugu,0
+CUST00548,18,Male,Unemployed,29953,435982,9,Medical,637,1,1,0,1,Port Harcourt,1
+CUST00549,50,Male,Student,13215,59920,9,Education,622,1,2,1,1,Lagos,1
+CUST00550,26,Female,Student,21002,295393,9,Business,568,0,0,0,0,Kano,1
+CUST00551,57,Male,Employed,152167,63650,3,Medical,493,1,2,2,1,Enugu,1
+CUST00552,45,Male,Self-employed,162295,340863,6,Travel,652,1,0,0,0,Abuja,0
+CUST00553,44,Male,Unemployed,31074,100209,18,Education,638,0,2,1,1,Port Harcourt,1
+CUST00554,29,Male,Student,19834,475650,6,Rent,806,1,0,0,0,Enugu,0
+CUST00555,58,Female,Student,22602,96186,3,Travel,518,1,2,0,1,Abuja,1
+CUST00556,33,Female,Student,23324,134155,12,Business,523,1,1,1,1,Enugu,1
+CUST00557,22,Male,Self-employed,109165,153201,9,Business,595,1,0,0,0,Ibadan,0
+CUST00558,24,Male,Self-employed,91343,474176,9,Medical,627,1,1,0,1,Abuja,0
+CUST00559,30,Female,Employed,122162,158830,9,Education,540,0,0,0,1,Ibadan,0
+CUST00560,39,Female,Student,28431,421609,18,Education,565,1,0,0,0,Ibadan,1
+CUST00561,35,Male,Unemployed,49728,344508,9,Education,641,1,0,0,1,Ibadan,0
+CUST00562,48,Male,Unemployed,27723,177456,18,Travel,491,0,0,0,1,Lagos,1
+CUST00563,37,Male,Unemployed,20973,429977,3,Rent,526,1,1,0,0,Kano,1
+CUST00564,59,Male,Self-employed,127544,476888,9,Rent,592,1,1,1,0,Ibadan,1
+CUST00565,31,Female,Student,13324,397767,18,Rent,490,1,0,0,0,Ibadan,0
+CUST00566,28,Female,Student,14649,302061,6,Education,771,0,0,0,0,Enugu,0
+CUST00567,42,Male,Self-employed,169234,126030,12,Medical,516,0,3,0,1,Abuja,0
+CUST00568,29,Male,Unemployed,23496,137724,12,Travel,661,0,1,0,1,Lagos,0
+CUST00569,52,Female,Employed,133008,44333,12,Rent,683,0,0,0,1,Abuja,0
+CUST00570,22,Female,Student,28880,368617,12,Education,553,0,0,0,0,Port Harcourt,1
+CUST00571,20,Female,Student,19959,409867,6,Business,615,1,3,1,1,Ibadan,1
+CUST00572,38,Male,Self-employed,87935,325422,9,Business,608,1,1,0,1,Kano,0
+CUST00573,26,Male,Unemployed,36141,335526,6,Education,513,1,0,0,1,Ibadan,1
+CUST00574,44,Female,Employed,184380,13656,18,Business,316,1,1,1,0,Kano,0
+CUST00575,43,Female,Employed,135293,225688,12,Travel,493,0,1,1,0,Abuja,1
+CUST00576,50,Female,Employed,106592,317133,6,Medical,594,1,2,1,1,Lagos,0
+CUST00577,55,Female,Unemployed,37942,50023,9,Business,746,1,0,0,1,Port Harcourt,0
+CUST00578,29,Male,Self-employed,128137,73396,6,Travel,815,1,0,0,1,Enugu,0
+CUST00579,26,Female,Student,18382,464026,6,Travel,484,1,1,0,1,Abuja,1
+CUST00580,36,Male,Self-employed,119210,130272,3,Travel,494,1,2,1,0,Kano,1
+CUST00581,33,Female,Self-employed,135901,113919,9,Medical,713,1,0,0,0,Kano,0
+CUST00582,27,Female,Employed,159310,156734,6,Education,539,1,2,2,1,Lagos,0
+CUST00583,18,Female,Self-employed,112459,450521,6,Rent,511,1,0,0,1,Abuja,1
+CUST00584,53,Female,Self-employed,109515,347698,12,Education,542,1,0,0,0,Abuja,0
+CUST00585,40,Female,Student,17683,476607,12,Education,676,0,0,0,1,Lagos,1
+CUST00586,54,Male,Student,20134,256288,18,Medical,635,1,1,0,1,Enugu,1
+CUST00587,38,Female,Student,19595,45384,12,Medical,300,1,2,0,1,Ibadan,1
+CUST00588,30,Male,Employed,164756,51057,12,Medical,469,1,2,0,0,Lagos,0
+CUST00589,37,Female,Self-employed,10000,379203,12,Rent,612,0,1,0,1,Port Harcourt,0
+CUST00590,56,Female,Unemployed,28723,229276,9,Medical,608,0,0,0,1,Ibadan,0
+CUST00591,32,Male,Student,23305,125484,9,Business,473,1,1,1,1,Lagos,1
+CUST00592,33,Male,Student,14956,232101,3,Business,587,1,1,0,1,Abuja,1
+CUST00593,31,Female,Student,32399,400462,3,Education,685,1,1,0,1,Abuja,0
+CUST00594,49,Male,Unemployed,57552,126785,6,Medical,569,1,1,0,0,Lagos,0
+CUST00595,44,Female,Unemployed,24129,229201,3,Medical,649,1,2,0,0,Enugu,0
+CUST00596,53,Male,Employed,125003,253783,12,Medical,541,1,1,0,0,Enugu,0
+CUST00597,56,Male,Student,23782,110439,3,Business,408,1,0,0,0,Lagos,0
+CUST00598,48,Male,Student,23138,72052,3,Rent,572,0,1,0,1,Ibadan,0
+CUST00599,42,Male,Student,19471,72340,3,Business,595,1,1,0,1,Enugu,0
+CUST00600,47,Female,Employed,151516,157032,12,Rent,748,0,0,0,1,Port Harcourt,0
+CUST00601,43,Male,Self-employed,139120,322791,12,Business,448,1,0,0,1,Enugu,0
+CUST00602,19,Male,Employed,133144,261007,9,Medical,647,1,2,1,0,Kano,1
+CUST00603,45,Male,Student,14838,375357,6,Rent,662,1,1,1,0,Lagos,1
+CUST00604,22,Male,Self-employed,96965,209629,12,Medical,431,1,0,0,0,Enugu,0
+CUST00605,34,Male,Self-employed,101784,268233,12,Travel,725,1,0,0,0,Enugu,0
+CUST00606,34,Female,Self-employed,60094,200862,3,Business,599,1,0,0,0,Abuja,0
+CUST00607,41,Male,Student,24968,393545,9,Education,737,1,1,0,1,Kano,1
+CUST00608,45,Male,Self-employed,102141,138708,9,Business,697,1,2,1,1,Abuja,0
+CUST00609,25,Female,Employed,141029,264895,9,Rent,549,1,0,0,0,Ibadan,0
+CUST00610,56,Male,Student,15940,317821,9,Business,572,0,2,1,1,Abuja,1
+CUST00611,48,Female,Student,21625,87987,3,Rent,591,1,1,0,0,Port Harcourt,1
+CUST00612,36,Male,Employed,175957,307290,9,Medical,680,0,2,0,0,Abuja,0
+CUST00613,57,Female,Student,18686,28238,9,Travel,509,1,3,1,0,Enugu,1
+CUST00614,19,Male,Student,23607,471031,3,Business,571,1,1,1,1,Ibadan,0
+CUST00615,50,Male,Employed,138429,415165,9,Rent,643,1,2,1,1,Lagos,0
+CUST00616,59,Male,Student,14328,200822,18,Medical,584,1,0,0,1,Enugu,1
+CUST00617,41,Female,Student,19579,354567,12,Business,597,0,1,0,1,Enugu,1
+CUST00618,51,Male,Unemployed,43784,187266,3,Medical,611,1,1,0,1,Lagos,0
+CUST00619,38,Male,Self-employed,77595,345652,18,Medical,575,1,0,0,1,Port Harcourt,0
+CUST00620,26,Male,Unemployed,28851,238674,12,Rent,656,0,0,0,1,Lagos,1
+CUST00621,43,Male,Employed,193967,451152,12,Business,552,1,0,0,1,Port Harcourt,0
+CUST00622,33,Male,Unemployed,27598,351953,6,Business,702,1,1,0,0,Lagos,0
+CUST00623,43,Male,Employed,86857,473058,6,Education,804,1,0,0,0,Kano,0
+CUST00624,46,Female,Self-employed,131533,319739,9,Rent,536,1,0,0,1,Enugu,1
+CUST00625,49,Female,Employed,156974,269725,3,Medical,690,0,0,0,1,Port Harcourt,0
+CUST00626,56,Female,Employed,164972,53189,9,Travel,430,1,3,1,0,Enugu,1
+CUST00627,59,Male,Student,28659,400179,12,Travel,388,1,2,0,1,Kano,1
+CUST00628,53,Male,Student,19307,429720,18,Rent,557,1,0,0,0,Kano,0
+CUST00629,35,Male,Unemployed,23464,444846,3,Travel,684,0,0,0,0,Enugu,0
+CUST00630,33,Male,Self-employed,69103,299494,18,Business,688,1,3,1,1,Lagos,1
+CUST00631,46,Male,Self-employed,30661,20308,3,Education,622,1,0,0,1,Kano,0
+CUST00632,57,Female,Self-employed,31610,305921,6,Business,544,0,0,0,1,Ibadan,1
+CUST00633,42,Female,Self-employed,62880,345748,9,Rent,676,1,3,1,1,Port Harcourt,0
+CUST00634,53,Female,Unemployed,21090,230050,3,Travel,671,1,1,1,1,Kano,1
+CUST00635,29,Male,Employed,157401,246421,6,Rent,500,1,0,0,1,Ibadan,0
+CUST00636,56,Male,Student,17441,42241,3,Education,522,1,0,0,1,Kano,0
+CUST00637,42,Female,Unemployed,30798,481849,3,Travel,483,1,2,1,0,Port Harcourt,1
+CUST00638,30,Male,Unemployed,34360,35643,6,Medical,684,1,2,0,1,Ibadan,0
+CUST00639,32,Female,Self-employed,167695,317383,12,Medical,626,1,4,0,0,Ibadan,0
+CUST00640,58,Female,Self-employed,131922,445253,18,Rent,482,1,1,1,1,Abuja,1
+CUST00641,24,Male,Student,14260,374365,3,Rent,676,1,0,0,0,Ibadan,1
+CUST00642,58,Female,Employed,123557,35938,9,Business,740,1,1,0,0,Enugu,0
+CUST00643,22,Female,Unemployed,34908,67177,3,Rent,552,1,0,0,1,Ibadan,0
+CUST00644,53,Male,Student,21047,414545,12,Business,606,0,1,0,1,Abuja,0
+CUST00645,39,Female,Employed,157632,211048,3,Rent,537,1,0,0,1,Ibadan,0
+CUST00646,41,Female,Unemployed,39092,246610,12,Business,752,1,1,1,1,Ibadan,1
+CUST00647,38,Male,Self-employed,31633,405482,12,Business,722,1,0,0,1,Ibadan,0
+CUST00648,40,Male,Student,20985,37976,6,Rent,522,1,1,0,1,Kano,1
+CUST00649,41,Female,Unemployed,27751,247685,12,Medical,507,1,1,1,1,Kano,1
+CUST00650,56,Female,Unemployed,42941,279169,6,Business,574,1,1,0,1,Abuja,1
+CUST00651,27,Male,Employed,197443,399125,6,Business,569,1,1,0,1,Abuja,0
+CUST00652,24,Female,Student,18602,210284,9,Education,463,1,1,0,0,Lagos,1
+CUST00653,18,Female,Self-employed,34919,179892,12,Medical,802,1,2,1,0,Port Harcourt,1
+CUST00654,50,Female,Employed,176242,30405,3,Rent,634,1,1,0,1,Enugu,0
+CUST00655,55,Female,Employed,114008,433557,6,Medical,669,1,1,0,0,Abuja,0
+CUST00656,27,Male,Self-employed,74356,341748,9,Education,665,1,2,0,1,Ibadan,0
+CUST00657,47,Male,Unemployed,25185,427117,9,Rent,459,1,0,0,0,Lagos,1
+CUST00658,26,Female,Student,23822,413634,18,Travel,501,1,1,0,0,Abuja,1
+CUST00659,18,Male,Student,26998,18471,3,Rent,636,1,2,0,1,Lagos,1
+CUST00660,54,Male,Employed,169635,11876,6,Rent,609,1,1,0,1,Abuja,0
+CUST00661,27,Female,Unemployed,13904,283360,3,Travel,530,1,0,0,1,Ibadan,0
+CUST00662,51,Female,Employed,126847,90391,3,Business,550,1,3,2,0,Abuja,1
+CUST00663,45,Female,Self-employed,149981,86889,3,Medical,642,0,0,0,0,Lagos,0
+CUST00664,38,Male,Student,10005,367327,3,Rent,603,1,3,2,0,Ibadan,1
+CUST00665,18,Female,Student,14472,134784,12,Business,686,1,0,0,0,Port Harcourt,0
+CUST00666,45,Female,Self-employed,92390,222292,9,Rent,450,1,1,0,0,Abuja,0
+CUST00667,47,Female,Unemployed,31566,405692,12,Rent,558,1,0,0,1,Lagos,0
+CUST00668,39,Male,Unemployed,55719,487869,12,Education,375,1,0,0,0,Ibadan,1
+CUST00669,29,Female,Employed,140029,168365,3,Medical,704,1,0,0,0,Port Harcourt,0
+CUST00670,37,Male,Student,28586,362407,6,Travel,760,1,1,1,0,Abuja,1
+CUST00671,23,Male,Student,25460,144843,9,Education,452,1,1,1,1,Ibadan,1
+CUST00672,58,Female,Unemployed,36443,164326,18,Travel,510,1,0,0,1,Kano,1
+CUST00673,49,Female,Unemployed,39088,222992,6,Business,559,0,0,0,0,Kano,0
+CUST00674,58,Male,Employed,152002,428682,9,Business,520,0,1,1,1,Port Harcourt,1
+CUST00675,58,Female,Self-employed,93170,449155,6,Business,359,1,0,0,1,Abuja,1
+CUST00676,36,Male,Unemployed,33519,383795,18,Business,698,1,0,0,1,Abuja,1
+CUST00677,47,Female,Unemployed,33418,108276,6,Rent,593,1,0,0,0,Abuja,0
+CUST00678,57,Female,Unemployed,28239,426750,18,Business,619,1,1,0,0,Enugu,0
+CUST00679,43,Female,Self-employed,74853,219285,18,Rent,572,0,2,1,1,Port Harcourt,1
+CUST00680,26,Female,Self-employed,115573,33012,12,Business,682,1,1,0,1,Lagos,0
+CUST00681,19,Male,Self-employed,112766,55622,18,Rent,579,1,2,0,0,Lagos,0
+CUST00682,50,Female,Employed,143477,348737,9,Travel,703,1,1,0,0,Abuja,0
+CUST00683,28,Male,Unemployed,25979,183251,6,Medical,489,0,1,1,0,Lagos,1
+CUST00684,40,Male,Self-employed,79770,428763,18,Rent,717,1,0,0,0,Lagos,0
+CUST00685,58,Female,Employed,204554,412211,9,Education,560,1,1,0,1,Ibadan,0
+CUST00686,32,Male,Unemployed,22540,132736,9,Medical,533,1,0,0,1,Abuja,0
+CUST00687,26,Male,Student,18819,372608,12,Medical,634,1,2,0,1,Abuja,0
+CUST00688,41,Female,Self-employed,117620,149301,18,Rent,508,1,1,1,0,Port Harcourt,1
+CUST00689,54,Female,Unemployed,25851,299499,6,Rent,664,1,0,0,0,Enugu,0
+CUST00690,49,Male,Student,25273,268355,18,Business,596,1,1,0,1,Abuja,1
+CUST00691,18,Female,Self-employed,61545,17435,18,Business,368,1,1,0,0,Port Harcourt,0
+CUST00692,19,Male,Unemployed,26559,188873,3,Rent,562,1,1,0,0,Kano,0
+CUST00693,49,Female,Self-employed,107776,14409,3,Medical,702,1,1,0,0,Port Harcourt,0
+CUST00694,28,Male,Unemployed,14797,52039,6,Rent,694,0,2,0,1,Enugu,0
+CUST00695,35,Male,Unemployed,17153,484192,9,Business,688,1,2,0,1,Enugu,0
+CUST00696,27,Male,Employed,143583,362963,12,Education,697,1,1,0,1,Enugu,0
+CUST00697,26,Female,Self-employed,110802,251015,12,Education,561,1,1,1,0,Port Harcourt,0
+CUST00698,35,Female,Student,18398,338939,3,Education,422,0,1,1,1,Ibadan,1
+CUST00699,30,Male,Self-employed,126855,241114,12,Business,717,1,0,0,1,Lagos,0
+CUST00700,38,Female,Employed,190001,60940,9,Medical,658,1,1,1,1,Lagos,0
+CUST00701,26,Male,Unemployed,45990,211357,6,Education,656,1,2,1,1,Abuja,1
+CUST00702,41,Male,Employed,182823,184631,9,Travel,545,0,2,0,0,Ibadan,0
+CUST00703,46,Female,Employed,64058,240969,12,Rent,411,0,0,0,1,Ibadan,1
+CUST00704,35,Female,Self-employed,47241,408239,3,Business,602,1,0,0,1,Kano,0
+CUST00705,43,Male,Self-employed,90208,250440,12,Travel,649,1,1,1,1,Enugu,0
+CUST00706,57,Female,Unemployed,33929,60721,9,Rent,649,0,0,0,1,Lagos,0
+CUST00707,30,Male,Student,18000,448591,18,Travel,525,1,1,1,1,Port Harcourt,1
+CUST00708,46,Male,Employed,126589,444928,9,Business,695,1,0,0,0,Port Harcourt,0
+CUST00709,19,Male,Unemployed,30870,149410,18,Education,496,0,2,1,1,Abuja,1
+CUST00710,39,Male,Employed,110099,134475,6,Rent,762,1,3,2,1,Enugu,0
+CUST00711,48,Female,Employed,140396,183947,12,Business,359,1,2,0,1,Kano,0
+CUST00712,30,Female,Student,22896,289453,12,Medical,741,0,0,0,0,Lagos,1
+CUST00713,25,Female,Self-employed,103035,177099,9,Education,662,1,1,0,1,Kano,0
+CUST00714,36,Male,Student,10000,323299,3,Medical,579,0,1,1,0,Port Harcourt,1
+CUST00715,20,Female,Unemployed,28290,207172,6,Medical,783,0,1,0,0,Ibadan,0
+CUST00716,33,Male,Self-employed,70805,474968,3,Business,797,1,1,1,0,Enugu,1
+CUST00717,27,Female,Student,14089,57949,18,Rent,672,1,1,0,0,Ibadan,0
+CUST00718,33,Male,Student,22286,472580,18,Education,809,1,1,0,0,Ibadan,0
+CUST00719,39,Female,Self-employed,143857,282774,12,Medical,669,1,0,0,1,Lagos,0
+CUST00720,36,Female,Employed,158856,355201,18,Travel,576,1,2,0,1,Ibadan,0
+CUST00721,33,Male,Employed,158765,320301,12,Rent,667,0,1,0,1,Abuja,0
+CUST00722,36,Male,Self-employed,145836,255901,6,Business,714,1,2,0,1,Port Harcourt,0
+CUST00723,24,Male,Student,19454,407026,6,Rent,603,1,0,0,0,Ibadan,0
+CUST00724,23,Female,Unemployed,18802,316732,3,Business,706,0,1,0,1,Port Harcourt,1
+CUST00725,41,Female,Unemployed,33583,217850,9,Travel,480,1,0,0,1,Port Harcourt,1
+CUST00726,20,Male,Student,15548,348136,3,Education,662,1,1,0,0,Abuja,1
+CUST00727,59,Male,Employed,112840,235450,3,Travel,696,0,0,0,1,Lagos,0
+CUST00728,46,Female,Unemployed,31070,230845,12,Medical,616,1,4,2,0,Port Harcourt,0
+CUST00729,52,Female,Student,19841,56055,3,Rent,803,1,2,2,1,Kano,1
+CUST00730,31,Female,Self-employed,105184,435553,18,Travel,690,1,2,0,0,Enugu,0
+CUST00731,50,Female,Employed,212747,16255,12,Medical,596,1,1,0,1,Enugu,0
+CUST00732,49,Male,Employed,165684,408443,12,Medical,565,1,4,1,0,Kano,0
+CUST00733,50,Male,Unemployed,26014,337689,9,Medical,648,1,1,0,1,Kano,0
+CUST00734,21,Female,Employed,165319,285124,6,Rent,567,0,0,0,1,Kano,0
+CUST00735,35,Female,Unemployed,24333,127213,9,Education,684,1,0,0,1,Ibadan,0
+CUST00736,41,Male,Self-employed,61694,424522,12,Rent,694,1,0,0,1,Port Harcourt,0
+CUST00737,50,Female,Unemployed,34928,396629,3,Travel,683,1,1,0,0,Abuja,0
+CUST00738,59,Male,Unemployed,14245,471490,18,Education,575,1,0,0,1,Abuja,0
+CUST00739,34,Male,Self-employed,67498,102429,6,Rent,810,1,2,1,0,Lagos,0
+CUST00740,29,Male,Employed,180015,144650,12,Business,552,1,0,0,1,Kano,0
+CUST00741,33,Male,Unemployed,46533,459155,9,Education,662,1,1,0,0,Ibadan,0
+CUST00742,25,Female,Employed,168061,308091,3,Rent,548,1,1,1,1,Kano,0
+CUST00743,25,Female,Student,24693,96574,6,Education,477,1,1,0,0,Ibadan,1
+CUST00744,55,Female,Unemployed,34210,154953,6,Medical,725,1,2,1,0,Enugu,0
+CUST00745,44,Male,Unemployed,40994,287272,3,Education,581,0,1,0,1,Lagos,1
+CUST00746,46,Male,Self-employed,96983,305578,6,Rent,765,1,2,0,1,Enugu,0
+CUST00747,27,Male,Unemployed,10344,224766,12,Travel,541,1,0,0,1,Lagos,1
+CUST00748,26,Male,Student,25270,19825,6,Rent,670,1,3,0,1,Ibadan,1
+CUST00749,24,Male,Self-employed,129741,156516,9,Travel,649,1,1,1,1,Kano,0
+CUST00750,30,Female,Student,21706,442589,12,Medical,750,1,1,1,1,Port Harcourt,1
+CUST00751,40,Female,Self-employed,158580,372414,12,Medical,810,1,0,0,1,Enugu,0
+CUST00752,46,Female,Employed,167293,468637,3,Travel,449,1,1,0,0,Enugu,0
+CUST00753,54,Female,Unemployed,30635,350465,9,Business,550,1,0,0,1,Port Harcourt,1
+CUST00754,26,Male,Unemployed,29048,126164,9,Medical,566,1,0,0,0,Kano,0
+CUST00755,30,Female,Unemployed,28747,96930,6,Rent,539,0,2,0,1,Ibadan,1
+CUST00756,25,Male,Employed,102945,438556,18,Education,486,1,2,0,1,Enugu,1
+CUST00757,48,Female,Self-employed,86208,303720,3,Education,412,0,1,0,0,Kano,0
+CUST00758,58,Female,Student,20248,286865,12,Education,699,1,2,0,0,Enugu,0
+CUST00759,24,Male,Self-employed,42334,195232,9,Rent,682,0,1,1,0,Enugu,1
+CUST00760,52,Female,Unemployed,30284,263926,18,Medical,602,1,0,0,0,Abuja,0
+CUST00761,40,Male,Unemployed,35907,21951,3,Education,577,1,1,0,1,Abuja,0
+CUST00762,52,Female,Self-employed,60606,141986,9,Business,656,1,1,0,0,Abuja,0
+CUST00763,45,Female,Self-employed,82416,20245,9,Education,664,1,0,0,1,Kano,0
+CUST00764,54,Female,Unemployed,47927,330111,18,Medical,724,0,2,1,1,Port Harcourt,1
+CUST00765,29,Male,Student,19190,284740,3,Travel,643,0,0,0,0,Ibadan,0
+CUST00766,18,Male,Student,19471,211462,6,Travel,723,1,1,0,1,Lagos,1
+CUST00767,33,Female,Unemployed,33207,132540,12,Business,516,1,1,0,1,Abuja,1
+CUST00768,48,Male,Self-employed,40983,486840,9,Education,702,0,0,0,0,Ibadan,0
+CUST00769,24,Female,Self-employed,191676,330351,9,Rent,786,1,1,0,1,Lagos,0
+CUST00770,45,Female,Unemployed,27405,368617,6,Medical,850,1,2,1,0,Enugu,1
+CUST00771,52,Male,Employed,164002,250322,12,Medical,679,1,2,0,1,Abuja,0
+CUST00772,46,Male,Self-employed,111648,203439,12,Business,563,1,1,0,0,Abuja,0
+CUST00773,49,Female,Student,18495,241684,12,Education,752,1,0,0,1,Port Harcourt,1
+CUST00774,34,Female,Employed,169768,433110,3,Travel,555,1,0,0,1,Abuja,0
+CUST00775,32,Female,Employed,132909,259780,9,Travel,564,1,0,0,0,Abuja,0
+CUST00776,58,Male,Employed,136350,453146,6,Rent,562,1,3,0,0,Enugu,0
+CUST00777,55,Female,Unemployed,30733,337980,6,Business,696,1,0,0,1,Port Harcourt,1
+CUST00778,56,Female,Self-employed,195676,25175,3,Business,523,1,0,0,1,Kano,0
+CUST00779,47,Female,Student,18803,211296,18,Travel,667,0,0,0,1,Ibadan,0
+CUST00780,44,Female,Student,18406,393180,6,Medical,454,1,1,1,1,Port Harcourt,1
+CUST00781,29,Female,Self-employed,145604,480947,6,Education,806,1,0,0,1,Lagos,0
+CUST00782,35,Male,Self-employed,75345,462060,6,Rent,628,1,0,0,0,Enugu,0
+CUST00783,44,Male,Self-employed,106441,423088,3,Medical,558,1,1,0,1,Enugu,0
+CUST00784,38,Male,Student,16700,174865,9,Travel,522,1,1,0,0,Ibadan,0
+CUST00785,24,Male,Employed,133872,324682,3,Business,712,1,0,0,0,Lagos,0
+CUST00786,55,Male,Student,20695,490069,12,Education,595,1,0,0,1,Lagos,1
+CUST00787,48,Female,Student,24866,204841,6,Rent,662,1,0,0,1,Enugu,0
+CUST00788,21,Male,Unemployed,10000,230070,12,Business,576,1,1,1,1,Enugu,0
+CUST00789,39,Female,Self-employed,167236,271109,12,Business,640,1,1,1,1,Ibadan,0
+CUST00790,53,Male,Unemployed,33957,367542,3,Business,614,0,2,1,1,Port Harcourt,1
+CUST00791,46,Male,Self-employed,92998,376634,9,Travel,679,0,0,0,1,Abuja,0
+CUST00792,21,Female,Student,13296,317062,9,Rent,568,1,0,0,0,Lagos,0
+CUST00793,21,Female,Self-employed,138916,128669,12,Medical,507,0,1,0,0,Abuja,0
+CUST00794,42,Male,Employed,127518,138529,3,Business,569,1,0,0,1,Ibadan,0
+CUST00795,22,Female,Self-employed,83800,162182,3,Travel,632,1,1,1,1,Lagos,0
+CUST00796,27,Male,Unemployed,34935,20879,6,Education,586,1,1,0,1,Kano,0
+CUST00797,57,Female,Student,19979,436265,3,Business,788,0,2,1,1,Abuja,1
+CUST00798,47,Male,Unemployed,25094,345913,9,Medical,585,1,0,0,1,Port Harcourt,0
+CUST00799,23,Male,Employed,137939,10887,3,Business,672,1,0,0,1,Abuja,0
+CUST00800,27,Male,Unemployed,22932,123059,9,Education,636,1,2,1,1,Ibadan,1
+CUST00801,50,Female,Employed,144950,335396,9,Medical,659,1,0,0,0,Abuja,0
+CUST00802,37,Male,Student,21440,189829,12,Education,649,0,4,0,0,Kano,1
+CUST00803,43,Female,Student,10000,71643,12,Rent,675,1,1,0,1,Lagos,0
+CUST00804,49,Male,Employed,204626,398424,6,Business,643,1,0,0,1,Port Harcourt,0
+CUST00805,30,Female,Student,29530,186357,6,Travel,551,1,0,0,1,Port Harcourt,0
+CUST00806,47,Female,Employed,181961,133389,6,Education,574,1,2,0,1,Port Harcourt,0
+CUST00807,36,Male,Student,26527,351055,12,Business,442,1,0,0,1,Lagos,1
+CUST00808,27,Female,Unemployed,10000,205062,3,Travel,633,0,0,0,1,Enugu,1
+CUST00809,28,Male,Unemployed,36946,229108,18,Travel,630,1,1,0,1,Enugu,0
+CUST00810,57,Male,Student,15120,19937,6,Education,666,1,1,0,1,Kano,0
+CUST00811,36,Female,Self-employed,129774,312065,18,Travel,665,1,4,0,0,Lagos,0
+CUST00812,56,Male,Self-employed,78769,276334,18,Education,494,1,0,0,1,Port Harcourt,0
+CUST00813,57,Male,Employed,199876,313528,12,Medical,575,1,1,0,1,Abuja,0
+CUST00814,38,Female,Unemployed,35823,281699,3,Travel,651,0,2,1,0,Abuja,1
+CUST00815,31,Female,Student,28014,418355,6,Business,593,1,2,2,1,Port Harcourt,1
+CUST00816,33,Female,Student,25237,384169,3,Education,314,1,2,0,1,Port Harcourt,1
+CUST00817,32,Female,Employed,92184,153943,12,Business,835,1,1,0,0,Lagos,0
+CUST00818,40,Female,Student,17762,250841,3,Travel,665,1,0,0,0,Ibadan,0
+CUST00819,23,Male,Employed,94100,144974,18,Travel,701,1,0,0,1,Enugu,0
+CUST00820,31,Female,Self-employed,42451,11822,12,Medical,577,1,1,0,1,Kano,0
+CUST00821,40,Male,Self-employed,86630,91333,12,Medical,671,1,1,0,1,Ibadan,0
+CUST00822,53,Female,Unemployed,39143,10773,12,Business,493,1,0,0,0,Lagos,1
+CUST00823,49,Male,Employed,138086,323948,9,Medical,595,1,0,0,1,Enugu,0
+CUST00824,50,Female,Unemployed,41062,67563,3,Business,620,1,1,0,1,Abuja,0
+CUST00825,32,Female,Self-employed,49228,478839,12,Business,753,1,2,1,1,Kano,1
+CUST00826,56,Male,Self-employed,136363,482386,3,Education,443,0,0,0,0,Abuja,0
+CUST00827,46,Female,Self-employed,110264,393156,9,Business,801,0,1,0,1,Port Harcourt,0
+CUST00828,44,Male,Employed,141951,261799,12,Education,617,1,0,0,0,Enugu,0
+CUST00829,46,Male,Student,17974,173212,3,Travel,670,1,0,0,1,Enugu,0
+CUST00830,48,Male,Student,22365,10201,18,Education,529,1,1,0,1,Ibadan,1
+CUST00831,59,Male,Self-employed,79988,139118,6,Business,340,1,0,0,1,Port Harcourt,0
+CUST00832,24,Female,Student,17932,227615,12,Travel,603,1,3,1,1,Enugu,1
+CUST00833,45,Male,Unemployed,40483,297067,12,Medical,591,1,2,1,1,Kano,1
+CUST00834,29,Female,Self-employed,95363,42288,6,Education,637,0,2,0,0,Ibadan,0
+CUST00835,26,Female,Unemployed,38117,247787,18,Rent,633,1,3,1,0,Abuja,1
+CUST00836,19,Male,Unemployed,21188,333070,9,Rent,480,1,0,0,0,Enugu,1
+CUST00837,48,Male,Unemployed,10584,438051,3,Medical,361,1,1,1,0,Ibadan,1
+CUST00838,48,Female,Student,13788,10664,18,Medical,429,1,3,1,0,Port Harcourt,1
+CUST00839,27,Male,Employed,143539,456397,3,Education,699,1,0,0,1,Abuja,0
+CUST00840,44,Male,Employed,216640,60089,6,Medical,617,1,2,1,1,Abuja,0
+CUST00841,43,Female,Unemployed,39764,340367,6,Business,486,1,0,0,0,Enugu,0
+CUST00842,20,Female,Self-employed,100291,444682,18,Business,666,1,1,0,1,Kano,0
+CUST00843,54,Female,Employed,154497,209792,18,Travel,672,1,3,1,1,Abuja,0
+CUST00844,43,Female,Self-employed,21418,27449,18,Medical,451,1,1,1,0,Enugu,1
+CUST00845,36,Male,Student,12522,39435,12,Education,598,1,0,0,1,Enugu,1
+CUST00846,37,Female,Employed,142289,346421,3,Medical,693,1,1,0,1,Abuja,0
+CUST00847,50,Female,Self-employed,197648,481806,9,Travel,643,1,1,1,1,Ibadan,0
+CUST00848,50,Male,Self-employed,101285,374584,9,Education,427,1,0,0,1,Abuja,1
+CUST00849,52,Male,Self-employed,177334,442841,6,Travel,625,1,0,0,0,Lagos,0
+CUST00850,29,Female,Employed,162258,336200,12,Medical,710,1,1,0,1,Ibadan,0
+CUST00851,37,Female,Self-employed,107479,201635,6,Travel,595,0,0,0,1,Kano,0
+CUST00852,32,Male,Unemployed,30249,257322,12,Rent,532,0,0,0,0,Lagos,1
+CUST00853,54,Male,Unemployed,35985,417726,18,Business,534,1,0,0,1,Enugu,1
+CUST00854,56,Female,Student,24734,90552,18,Travel,605,1,1,0,0,Kano,1
+CUST00855,56,Male,Unemployed,24459,272273,18,Rent,598,1,0,0,0,Abuja,0
+CUST00856,59,Male,Self-employed,77081,90141,12,Travel,699,1,1,0,0,Ibadan,0
+CUST00857,22,Female,Employed,150322,317502,9,Rent,654,1,0,0,1,Abuja,0
+CUST00858,46,Female,Unemployed,29557,176107,9,Medical,759,0,2,0,1,Abuja,1
+CUST00859,33,Female,Employed,137110,424414,3,Medical,469,1,2,0,1,Port Harcourt,0
+CUST00860,46,Male,Self-employed,41623,484330,3,Medical,693,1,0,0,0,Port Harcourt,0
+CUST00861,41,Male,Student,15870,211243,9,Travel,474,1,2,1,1,Enugu,1
+CUST00862,58,Female,Employed,183500,128544,18,Medical,623,1,0,0,1,Ibadan,0
+CUST00863,49,Female,Student,17601,348012,3,Medical,596,1,0,0,0,Enugu,0
+CUST00864,58,Male,Unemployed,14313,419426,18,Business,572,1,3,1,1,Lagos,1
+CUST00865,30,Male,Employed,142010,459235,3,Rent,581,1,0,0,1,Enugu,0
+CUST00866,31,Male,Student,12988,26746,3,Rent,809,1,3,0,0,Ibadan,1
+CUST00867,51,Female,Employed,159525,156115,6,Business,570,1,1,1,1,Port Harcourt,0
+CUST00868,19,Female,Employed,151570,380164,3,Business,607,1,2,1,1,Lagos,0
+CUST00869,57,Male,Unemployed,44926,64136,18,Business,665,1,2,1,0,Ibadan,1
+CUST00870,42,Male,Unemployed,16358,93949,12,Education,546,1,2,1,0,Port Harcourt,1
+CUST00871,32,Female,Student,24888,140417,9,Business,541,1,3,1,0,Port Harcourt,1
+CUST00872,55,Male,Employed,111853,326004,18,Business,484,1,2,1,1,Enugu,1
+CUST00873,42,Male,Employed,169834,270484,9,Travel,659,0,1,0,1,Lagos,0
+CUST00874,46,Female,Unemployed,46056,171085,18,Business,391,1,1,1,1,Kano,1
+CUST00875,28,Female,Student,12197,353954,12,Business,738,1,1,0,1,Port Harcourt,0
+CUST00876,21,Male,Self-employed,25010,262315,6,Education,578,0,1,1,1,Ibadan,1
+CUST00877,32,Female,Self-employed,41579,157567,9,Medical,719,1,1,0,0,Lagos,1
+CUST00878,50,Male,Employed,167300,303332,3,Business,733,1,2,1,0,Ibadan,0
+CUST00879,51,Female,Employed,120620,498525,9,Rent,616,1,0,0,0,Enugu,0
+CUST00880,37,Female,Self-employed,10000,292789,12,Travel,645,1,2,0,1,Abuja,0
+CUST00881,26,Male,Self-employed,96643,289946,6,Travel,561,1,2,0,0,Kano,0
+CUST00882,34,Male,Employed,165619,358453,6,Travel,583,1,3,1,0,Lagos,0
+CUST00883,30,Female,Employed,144228,430253,9,Business,661,1,1,0,1,Kano,0
+CUST00884,29,Male,Self-employed,131490,110207,18,Education,693,1,1,1,0,Kano,1
+CUST00885,30,Female,Self-employed,113868,30273,6,Business,640,1,0,0,1,Kano,0
+CUST00886,38,Male,Self-employed,84412,52262,9,Education,668,1,1,1,0,Port Harcourt,0
+CUST00887,23,Female,Unemployed,35762,401842,18,Rent,580,1,1,1,1,Ibadan,1
+CUST00888,18,Female,Unemployed,40200,207044,12,Rent,802,1,1,0,1,Lagos,0
+CUST00889,49,Female,Self-employed,118006,213735,6,Education,589,1,2,1,1,Kano,1
+CUST00890,45,Female,Self-employed,179203,168221,9,Education,664,1,1,0,1,Port Harcourt,0
+CUST00891,41,Female,Unemployed,18832,259000,9,Education,785,0,2,1,1,Ibadan,1
+CUST00892,28,Male,Self-employed,54434,165944,18,Business,661,1,1,1,0,Kano,1
+CUST00893,52,Male,Self-employed,112734,94375,9,Business,628,1,0,0,1,Enugu,0
+CUST00894,34,Male,Employed,124385,123611,18,Business,535,1,1,0,1,Ibadan,1
+CUST00895,34,Female,Self-employed,81284,495971,3,Travel,798,1,0,0,1,Kano,0
+CUST00896,27,Female,Self-employed,117469,55710,9,Education,640,1,3,1,1,Abuja,0
+CUST00897,20,Female,Self-employed,54266,353400,12,Travel,567,1,1,0,1,Ibadan,0
+CUST00898,49,Male,Student,11679,231197,9,Travel,688,1,2,0,0,Lagos,0
+CUST00899,36,Male,Self-employed,242224,229699,18,Rent,624,1,0,0,1,Port Harcourt,0
+CUST00900,20,Male,Self-employed,69001,19251,18,Travel,736,0,1,0,1,Enugu,0
+CUST00901,39,Male,Student,18018,229507,9,Business,545,0,0,0,1,Abuja,1
+CUST00902,40,Female,Self-employed,67015,387699,3,Medical,494,1,0,0,1,Kano,1
+CUST00903,40,Male,Employed,139337,172089,6,Travel,748,0,2,2,0,Kano,1
+CUST00904,25,Female,Student,30431,196739,12,Business,627,1,0,0,1,Lagos,1
+CUST00905,23,Female,Employed,150998,414407,18,Medical,697,1,3,1,1,Enugu,0
+CUST00906,30,Female,Self-employed,171330,286886,12,Education,827,1,4,1,1,Kano,0
+CUST00907,25,Male,Unemployed,29612,441527,12,Rent,758,1,0,0,1,Ibadan,0
+CUST00908,59,Female,Unemployed,20845,404458,9,Education,612,1,2,1,1,Port Harcourt,1
+CUST00909,44,Male,Self-employed,86566,453256,12,Rent,635,1,1,0,0,Abuja,0
+CUST00910,46,Male,Unemployed,32088,162194,6,Rent,605,1,1,1,1,Abuja,1
+CUST00911,44,Male,Unemployed,35724,329086,18,Business,639,1,0,0,1,Enugu,1
+CUST00912,45,Male,Student,20605,297089,9,Business,788,0,1,0,1,Port Harcourt,0
+CUST00913,41,Female,Student,20220,270352,6,Travel,416,1,2,0,0,Abuja,0
+CUST00914,25,Female,Employed,235359,330426,6,Business,569,1,0,0,0,Abuja,0
+CUST00915,56,Male,Self-employed,125207,439533,18,Business,375,1,0,0,1,Ibadan,0
+CUST00916,54,Male,Employed,135048,320546,6,Medical,626,1,2,1,0,Abuja,1
+CUST00917,20,Female,Employed,96175,91895,9,Business,653,1,0,0,0,Abuja,0
+CUST00918,42,Female,Student,18753,39061,12,Rent,611,1,3,2,0,Abuja,1
+CUST00919,51,Female,Self-employed,28774,475049,18,Rent,750,1,0,0,1,Ibadan,0
+CUST00920,35,Female,Self-employed,91479,334210,9,Education,662,1,0,0,1,Ibadan,0
+CUST00921,23,Male,Self-employed,89918,196151,12,Education,562,1,0,0,1,Abuja,0
+CUST00922,53,Male,Employed,139914,224602,6,Travel,660,1,0,0,1,Ibadan,0
+CUST00923,50,Female,Self-employed,151555,19644,18,Business,488,1,3,2,1,Abuja,1
+CUST00924,39,Female,Employed,131687,92663,18,Travel,636,1,2,0,0,Lagos,0
+CUST00925,20,Male,Student,24134,404116,6,Travel,448,1,1,0,0,Ibadan,1
+CUST00926,37,Male,Student,19381,97798,18,Education,562,1,1,0,1,Kano,1
+CUST00927,54,Male,Student,20177,475533,6,Education,637,0,0,0,1,Port Harcourt,1
+CUST00928,30,Female,Employed,137034,413033,12,Rent,520,1,0,0,0,Kano,1
+CUST00929,59,Female,Self-employed,121162,417796,3,Medical,598,1,0,0,1,Ibadan,0
+CUST00930,51,Female,Unemployed,40159,215007,6,Business,559,1,2,1,0,Enugu,1
+CUST00931,45,Male,Employed,88523,62606,18,Business,561,0,0,0,1,Port Harcourt,1
+CUST00932,20,Male,Unemployed,17321,466946,12,Medical,491,1,1,0,1,Lagos,0
+CUST00933,37,Male,Student,21041,271673,18,Medical,553,1,0,0,1,Kano,0
+CUST00934,32,Female,Unemployed,21320,40137,18,Medical,578,0,1,1,1,Enugu,1
+CUST00935,38,Female,Self-employed,31640,16959,12,Travel,500,0,1,0,1,Ibadan,0
+CUST00936,27,Female,Self-employed,40333,366163,9,Travel,570,1,0,0,0,Ibadan,1
+CUST00937,30,Female,Unemployed,30434,396091,9,Travel,689,1,1,1,0,Kano,1
+CUST00938,56,Female,Self-employed,135610,130672,3,Rent,705,1,0,0,1,Port Harcourt,0
+CUST00939,55,Male,Employed,100650,240751,6,Travel,542,1,1,1,1,Port Harcourt,1
+CUST00940,21,Female,Employed,117453,350723,6,Education,563,0,1,0,1,Enugu,1
+CUST00941,36,Male,Employed,167299,104647,6,Education,659,1,0,0,0,Ibadan,0
+CUST00942,52,Female,Employed,223165,108302,3,Medical,683,1,0,0,0,Abuja,0
+CUST00943,43,Female,Employed,173636,459553,18,Business,575,1,0,0,1,Enugu,0
+CUST00944,41,Female,Student,25364,33283,18,Travel,514,1,2,1,0,Kano,1
+CUST00945,38,Male,Self-employed,56445,261486,12,Education,577,1,1,1,0,Lagos,0
+CUST00946,30,Male,Unemployed,29555,212208,6,Business,654,1,0,0,0,Ibadan,0
+CUST00947,31,Male,Self-employed,160798,123161,3,Medical,386,1,2,0,1,Abuja,0
+CUST00948,31,Male,Self-employed,17968,281905,3,Medical,531,0,1,0,1,Port Harcourt,1
+CUST00949,38,Female,Student,18541,318265,12,Travel,615,1,0,0,1,Abuja,1
+CUST00950,22,Male,Employed,133176,71573,3,Travel,547,0,1,1,1,Kano,1
+CUST00951,40,Female,Unemployed,53647,203724,9,Rent,619,1,1,0,1,Ibadan,0
+CUST00952,31,Male,Student,19022,62176,12,Travel,654,1,1,0,0,Lagos,0
+CUST00953,33,Female,Self-employed,121709,10946,12,Travel,617,1,2,1,0,Lagos,0
+CUST00954,56,Male,Unemployed,35494,176012,9,Business,533,0,1,0,1,Ibadan,0
+CUST00955,53,Female,Unemployed,17144,350863,12,Education,438,1,2,0,1,Ibadan,1
+CUST00956,26,Female,Self-employed,118864,28677,9,Education,746,1,3,0,0,Enugu,0
+CUST00957,41,Female,Employed,161571,284342,12,Business,519,1,3,0,1,Kano,1
+CUST00958,44,Male,Student,23391,384794,6,Rent,562,0,1,0,1,Kano,0
+CUST00959,33,Female,Unemployed,31922,205023,18,Travel,698,1,0,0,1,Lagos,0
+CUST00960,39,Female,Self-employed,88382,367552,9,Business,644,1,2,1,0,Port Harcourt,0
+CUST00961,34,Female,Employed,156456,13324,18,Rent,527,0,2,1,1,Port Harcourt,0
+CUST00962,19,Female,Unemployed,10905,85921,6,Travel,668,1,3,0,1,Kano,1
+CUST00963,30,Male,Self-employed,138702,110583,12,Rent,523,1,1,0,1,Abuja,0
+CUST00964,28,Male,Unemployed,34279,217209,6,Rent,772,1,0,0,0,Abuja,0
+CUST00965,43,Male,Unemployed,21741,280726,6,Business,542,1,0,0,1,Lagos,1
+CUST00966,33,Male,Student,20352,117919,18,Business,645,1,1,0,1,Ibadan,0
+CUST00967,49,Male,Student,25429,10118,9,Travel,565,0,0,0,1,Kano,1
+CUST00968,36,Female,Unemployed,18157,139340,12,Rent,590,1,0,0,0,Ibadan,0
+CUST00969,57,Female,Student,31182,124809,6,Travel,635,1,2,0,1,Abuja,0
+CUST00970,35,Male,Student,19658,341792,12,Travel,501,1,2,0,1,Lagos,1
+CUST00971,32,Female,Student,14674,457698,6,Education,578,1,2,0,1,Lagos,1
+CUST00972,28,Female,Unemployed,38601,336783,3,Business,681,1,1,0,1,Enugu,0
+CUST00973,45,Male,Student,23150,97010,18,Business,750,1,0,0,1,Kano,0
+CUST00974,58,Female,Unemployed,16799,247818,6,Travel,576,1,2,1,0,Kano,0
+CUST00975,36,Male,Unemployed,16674,244815,12,Travel,651,1,0,0,1,Kano,0
+CUST00976,46,Female,Self-employed,118179,223378,12,Education,523,1,2,2,1,Abuja,0
+CUST00977,26,Female,Unemployed,28313,36445,9,Education,656,1,2,0,1,Kano,1
+CUST00978,55,Female,Self-employed,119201,306013,18,Rent,592,1,2,0,1,Ibadan,0
+CUST00979,29,Male,Employed,189318,12616,9,Rent,717,1,3,2,0,Ibadan,0
+CUST00980,25,Female,Student,21134,15670,6,Rent,600,1,1,0,0,Enugu,1
+CUST00981,21,Male,Student,18392,260895,3,Rent,787,0,0,0,1,Port Harcourt,0
+CUST00982,22,Female,Self-employed,42242,82585,18,Travel,644,1,2,1,1,Enugu,0
+CUST00983,23,Female,Student,15697,226655,9,Medical,534,0,2,1,1,Ibadan,1
+CUST00984,31,Male,Student,20174,40916,3,Rent,585,0,1,0,1,Lagos,0
+CUST00985,50,Male,Unemployed,14273,158270,12,Business,543,1,1,0,1,Port Harcourt,1
+CUST00986,37,Female,Unemployed,22712,260832,9,Medical,515,1,0,0,0,Ibadan,1
+CUST00987,31,Female,Unemployed,38070,376034,3,Education,481,1,1,1,1,Lagos,1
+CUST00988,30,Female,Self-employed,108090,17625,18,Travel,578,1,1,0,1,Enugu,0
+CUST00989,21,Male,Unemployed,41133,342538,9,Medical,642,0,0,0,1,Enugu,0
+CUST00990,30,Female,Student,26389,394123,3,Education,657,1,1,1,0,Ibadan,1
+CUST00991,41,Female,Student,18113,122267,6,Rent,734,1,3,1,0,Enugu,0
+CUST00992,32,Female,Student,19871,234239,18,Travel,383,1,0,0,0,Port Harcourt,1
+CUST00993,32,Male,Employed,137552,317055,6,Medical,750,1,1,0,0,Abuja,0
+CUST00994,21,Female,Unemployed,29619,101929,9,Medical,575,0,1,0,1,Ibadan,0
+CUST00995,38,Female,Unemployed,18240,361111,12,Medical,677,1,0,0,1,Enugu,0
+CUST00996,25,Female,Student,17310,23944,6,Rent,646,1,1,0,1,Lagos,0
+CUST00997,40,Male,Self-employed,100879,91492,9,Business,791,1,0,0,0,Abuja,0
+CUST00998,25,Male,Student,20171,356327,3,Business,563,1,0,0,1,Lagos,1
+CUST00999,44,Female,Employed,129849,484658,3,Education,805,0,0,0,0,Ibadan,0
+CUST01000,59,Male,Employed,146188,165905,9,Travel,451,1,1,1,1,Abuja,1
+CUST01001,38,Male,Student,23302,15764,9,Rent,585,1,2,1,1,Abuja,1
+CUST01002,18,Female,Student,19223,408440,6,Rent,550,1,2,0,1,Ibadan,1
+CUST01003,38,Male,Employed,121098,210664,3,Medical,406,1,2,0,1,Kano,1
+CUST01004,47,Female,Student,17736,332208,18,Medical,617,1,1,1,1,Ibadan,1
+CUST01005,45,Female,Self-employed,135160,454937,18,Rent,505,1,1,1,0,Ibadan,0
+CUST01006,57,Female,Student,10938,119512,18,Travel,850,1,0,0,0,Kano,0
+CUST01007,55,Female,Student,16849,212893,18,Rent,526,1,2,1,0,Lagos,1
+CUST01008,42,Female,Unemployed,24955,181730,9,Education,448,1,0,0,0,Kano,1
+CUST01009,51,Male,Unemployed,26706,13935,3,Business,645,1,1,0,1,Ibadan,0
+CUST01010,42,Male,Unemployed,21918,320551,9,Education,575,1,3,1,1,Ibadan,1
+CUST01011,55,Male,Student,18683,485594,12,Medical,621,1,0,0,1,Lagos,0
+CUST01012,19,Female,Unemployed,43616,390661,18,Rent,605,1,1,1,1,Lagos,1
+CUST01013,38,Female,Self-employed,183907,277227,12,Travel,659,0,2,1,1,Port Harcourt,1
+CUST01014,51,Female,Self-employed,148166,288242,6,Education,560,0,0,0,1,Port Harcourt,0
+CUST01015,18,Male,Unemployed,33001,414579,3,Education,585,1,0,0,1,Enugu,1
+CUST01016,55,Male,Unemployed,46759,110583,9,Travel,586,1,0,0,1,Kano,1
+CUST01017,21,Female,Self-employed,82694,454866,3,Rent,818,1,0,0,1,Abuja,0
+CUST01018,33,Female,Employed,155452,178387,12,Travel,663,0,0,0,1,Port Harcourt,0
+CUST01019,32,Female,Student,11821,191456,6,Medical,573,0,1,0,1,Lagos,0
+CUST01020,20,Male,Employed,117114,186661,18,Business,410,1,1,1,1,Abuja,1
+CUST01021,43,Male,Unemployed,28108,248752,9,Rent,591,1,0,0,1,Enugu,1
+CUST01022,47,Female,Employed,124241,419595,6,Business,623,1,1,0,1,Abuja,0
+CUST01023,20,Male,Student,14380,269028,6,Medical,637,1,0,0,0,Port Harcourt,1
+CUST01024,58,Female,Student,25135,221549,9,Education,536,1,1,0,0,Enugu,1
+CUST01025,26,Male,Unemployed,23261,167925,3,Rent,711,1,1,1,1,Lagos,0
+CUST01026,21,Female,Student,10293,384480,3,Travel,449,1,0,0,0,Port Harcourt,1
+CUST01027,55,Male,Self-employed,87729,158167,9,Education,706,1,0,0,1,Lagos,0
+CUST01028,55,Male,Self-employed,79089,167142,12,Education,508,1,1,0,0,Abuja,0
+CUST01029,36,Male,Self-employed,172305,377493,12,Business,764,1,0,0,0,Ibadan,0
+CUST01030,37,Male,Student,20169,498641,12,Medical,670,1,1,0,0,Kano,1
+CUST01031,55,Male,Employed,132523,143056,18,Travel,534,1,2,0,0,Lagos,0
+CUST01032,19,Female,Student,27005,167651,9,Rent,850,0,2,1,1,Kano,1
+CUST01033,26,Male,Self-employed,117150,278392,3,Rent,677,1,0,0,0,Enugu,0
+CUST01034,18,Female,Unemployed,28127,111797,3,Rent,679,1,3,1,0,Kano,1
+CUST01035,45,Male,Student,23905,438405,6,Business,602,0,0,0,0,Lagos,1
+CUST01036,33,Female,Self-employed,97280,158651,9,Business,568,1,0,0,1,Abuja,0
+CUST01037,32,Male,Student,17053,188373,3,Travel,474,1,1,1,0,Kano,1
+CUST01038,46,Male,Employed,99298,268984,9,Rent,589,1,1,0,1,Enugu,0
+CUST01039,56,Male,Self-employed,113169,288879,12,Rent,631,1,2,0,1,Kano,0
+CUST01040,27,Female,Student,20475,358937,6,Business,775,1,1,0,1,Enugu,0
+CUST01041,26,Female,Unemployed,23605,98938,6,Medical,538,0,3,0,1,Lagos,0
+CUST01042,56,Female,Student,18796,120788,18,Medical,515,1,0,0,0,Ibadan,1
+CUST01043,44,Female,Self-employed,108577,406641,18,Rent,582,1,1,0,0,Ibadan,0
+CUST01044,18,Female,Unemployed,28246,190750,12,Medical,590,1,0,0,0,Ibadan,0
+CUST01045,56,Male,Employed,158090,383415,18,Rent,586,1,0,0,0,Port Harcourt,0
+CUST01046,49,Female,Unemployed,28600,56486,18,Medical,636,1,0,0,0,Port Harcourt,0
+CUST01047,18,Male,Student,22291,188434,6,Business,489,1,2,0,1,Ibadan,1
+CUST01048,34,Female,Self-employed,81342,390808,9,Business,557,1,1,0,1,Enugu,0
+CUST01049,58,Female,Self-employed,31414,364097,18,Education,611,1,1,1,0,Ibadan,1
+CUST01050,36,Male,Unemployed,42666,33454,9,Education,502,1,1,1,1,Enugu,1
+CUST01051,23,Female,Employed,225163,241506,3,Travel,554,1,1,0,0,Enugu,0
+CUST01052,33,Male,Employed,143730,251979,6,Rent,477,1,1,0,1,Lagos,0
+CUST01053,26,Male,Employed,184470,176078,12,Rent,537,1,0,0,0,Lagos,0
+CUST01054,56,Male,Student,14553,267586,12,Travel,776,1,2,0,0,Ibadan,0
+CUST01055,22,Female,Employed,116820,135513,9,Rent,462,1,2,1,1,Ibadan,0
+CUST01056,21,Male,Employed,161708,258053,6,Education,526,0,3,0,0,Lagos,1
+CUST01057,33,Female,Employed,152268,446066,9,Travel,647,1,2,1,0,Enugu,1
+CUST01058,37,Female,Unemployed,33910,340772,3,Travel,518,1,1,1,0,Kano,1
+CUST01059,46,Male,Employed,202993,75871,9,Business,648,1,2,0,1,Abuja,0
+CUST01060,35,Male,Employed,82326,42262,6,Travel,643,1,1,1,0,Port Harcourt,0
+CUST01061,52,Male,Self-employed,72015,199772,18,Rent,579,1,1,0,0,Ibadan,0
+CUST01062,47,Male,Student,24305,245954,3,Travel,647,1,0,0,0,Kano,0
+CUST01063,36,Female,Student,32929,397035,3,Rent,641,1,1,0,1,Abuja,0
+CUST01064,28,Female,Unemployed,27350,405380,6,Travel,472,1,0,0,1,Ibadan,1
+CUST01065,31,Female,Unemployed,34764,342480,9,Travel,596,0,1,0,1,Kano,0
+CUST01066,52,Female,Student,13849,389821,12,Medical,545,1,0,0,0,Ibadan,1
+CUST01067,49,Male,Self-employed,104487,456768,12,Travel,595,1,1,1,1,Enugu,0
+CUST01068,45,Female,Unemployed,16617,25985,12,Education,620,1,1,0,1,Port Harcourt,0
+CUST01069,30,Male,Employed,96395,183413,9,Travel,850,1,0,0,1,Lagos,0
+CUST01070,27,Male,Unemployed,26861,211662,3,Medical,498,0,1,1,1,Abuja,1
+CUST01071,31,Male,Unemployed,47782,300173,3,Medical,664,1,0,0,0,Ibadan,1
+CUST01072,44,Male,Employed,102903,402672,3,Education,645,0,1,0,1,Kano,0
+CUST01073,32,Male,Self-employed,139597,298171,9,Medical,604,1,1,0,1,Ibadan,0
+CUST01074,40,Male,Self-employed,114518,184922,9,Medical,677,1,2,1,1,Lagos,0
+CUST01075,49,Female,Self-employed,78264,356044,3,Medical,621,0,2,1,1,Port Harcourt,1
+CUST01076,36,Male,Student,27960,401398,18,Business,541,1,1,1,1,Ibadan,1
+CUST01077,58,Female,Employed,192445,29736,18,Education,512,1,1,0,0,Lagos,0
+CUST01078,35,Male,Unemployed,32631,230178,9,Education,498,1,0,0,0,Port Harcourt,1
+CUST01079,45,Male,Self-employed,111100,26367,18,Business,632,0,0,0,1,Enugu,0
+CUST01080,49,Female,Employed,159191,482139,9,Travel,590,1,1,0,1,Lagos,0
+CUST01081,52,Female,Self-employed,57208,312838,9,Travel,445,1,1,0,1,Enugu,0
+CUST01082,24,Male,Self-employed,85634,164113,3,Education,395,1,3,2,1,Port Harcourt,1
+CUST01083,23,Male,Self-employed,66148,320697,12,Medical,429,0,2,1,1,Port Harcourt,1
+CUST01084,30,Male,Self-employed,84902,468417,9,Business,723,1,0,0,0,Port Harcourt,0
+CUST01085,38,Male,Student,21487,325341,9,Business,681,1,1,1,1,Port Harcourt,0
+CUST01086,23,Female,Self-employed,51843,161865,6,Education,622,1,4,2,0,Ibadan,0
+CUST01087,51,Male,Student,23080,89390,12,Travel,655,1,1,0,0,Abuja,0
+CUST01088,21,Male,Self-employed,53299,169127,3,Medical,681,1,1,0,0,Port Harcourt,0
+CUST01089,32,Female,Employed,155763,349798,3,Education,609,1,1,1,1,Port Harcourt,1
+CUST01090,36,Female,Unemployed,35262,288842,6,Medical,481,1,0,0,1,Kano,0
+CUST01091,26,Male,Unemployed,37006,182301,6,Medical,651,0,1,0,1,Ibadan,0
+CUST01092,41,Female,Self-employed,160377,380116,12,Business,443,1,2,0,0,Abuja,1
+CUST01093,37,Male,Unemployed,24861,37881,6,Business,683,0,2,0,0,Lagos,1
+CUST01094,45,Male,Self-employed,35871,354287,18,Rent,418,1,0,0,1,Kano,0
+CUST01095,56,Male,Unemployed,32137,25236,3,Medical,722,1,1,0,0,Port Harcourt,0
+CUST01096,26,Female,Employed,141723,101714,9,Rent,477,1,1,0,1,Enugu,0
+CUST01097,58,Male,Self-employed,113550,22189,18,Travel,587,1,1,0,0,Kano,0
+CUST01098,47,Female,Self-employed,121213,340357,3,Education,630,1,1,0,0,Ibadan,0
+CUST01099,44,Male,Unemployed,19323,306077,6,Business,502,1,1,0,1,Kano,1
+CUST01100,57,Male,Unemployed,24936,310233,3,Education,612,1,2,1,0,Enugu,1
+CUST01101,26,Male,Employed,161346,114885,12,Medical,515,1,0,0,0,Enugu,1
+CUST01102,37,Female,Employed,157864,493958,3,Medical,587,1,2,0,0,Enugu,0
+CUST01103,52,Female,Self-employed,60458,184527,12,Travel,824,1,1,0,0,Enugu,0
+CUST01104,51,Male,Unemployed,20079,385399,12,Travel,638,0,1,0,1,Ibadan,1
+CUST01105,45,Male,Self-employed,27468,97334,6,Travel,663,1,1,0,0,Port Harcourt,0
+CUST01106,37,Male,Employed,119273,224586,6,Travel,598,1,2,2,1,Kano,0
+CUST01107,40,Female,Student,22668,386901,12,Rent,749,1,1,0,1,Lagos,1
+CUST01108,18,Female,Unemployed,36255,467151,9,Medical,577,1,1,1,1,Abuja,1
+CUST01109,46,Female,Employed,171348,197896,9,Education,640,1,1,1,0,Lagos,0
+CUST01110,42,Female,Self-employed,94809,93198,6,Medical,597,1,2,1,1,Port Harcourt,0
+CUST01111,57,Male,Employed,145337,441786,12,Travel,484,1,2,1,1,Enugu,1
+CUST01112,43,Male,Student,16345,58396,6,Travel,585,1,0,0,0,Abuja,0
+CUST01113,38,Female,Unemployed,38876,135838,18,Medical,521,1,1,0,1,Port Harcourt,1
+CUST01114,46,Male,Self-employed,44529,317413,6,Travel,588,1,2,1,1,Ibadan,0
+CUST01115,54,Male,Self-employed,133695,355624,9,Travel,806,1,1,1,0,Abuja,1
+CUST01116,26,Female,Self-employed,106804,59339,18,Rent,596,1,0,0,1,Kano,0
+CUST01117,45,Male,Employed,121448,146865,6,Medical,440,1,1,0,1,Abuja,0
+CUST01118,20,Male,Unemployed,33223,274744,12,Education,565,1,2,1,0,Kano,1
+CUST01119,32,Female,Unemployed,50545,91112,6,Rent,754,1,0,0,1,Lagos,0
+CUST01120,46,Male,Self-employed,72802,395608,3,Travel,433,1,1,0,0,Ibadan,0
+CUST01121,18,Female,Self-employed,141892,184080,18,Rent,603,0,2,1,0,Abuja,0
+CUST01122,46,Male,Unemployed,37331,194067,3,Education,737,0,3,0,0,Abuja,1
+CUST01123,57,Female,Unemployed,34788,482282,6,Education,445,1,0,0,1,Port Harcourt,1
+CUST01124,59,Female,Self-employed,100571,301111,6,Rent,691,1,1,1,1,Abuja,0
+CUST01125,42,Male,Student,23408,278619,3,Medical,601,1,0,0,1,Port Harcourt,0
+CUST01126,26,Male,Self-employed,143844,412606,6,Business,619,0,1,0,1,Abuja,0
+CUST01127,21,Female,Student,18435,300997,9,Education,522,0,3,1,0,Abuja,1
+CUST01128,46,Female,Student,21221,407400,3,Travel,656,0,0,0,1,Enugu,1
+CUST01129,31,Female,Unemployed,26965,450882,12,Travel,799,1,0,0,1,Enugu,0
+CUST01130,47,Male,Employed,168936,198670,12,Education,484,1,2,1,0,Lagos,1
+CUST01131,20,Male,Student,21157,401492,3,Travel,624,1,0,0,0,Port Harcourt,1
+CUST01132,49,Male,Self-employed,106409,144286,9,Education,488,0,0,0,0,Port Harcourt,0
+CUST01133,49,Female,Unemployed,10000,296039,12,Rent,431,1,0,0,1,Port Harcourt,1
+CUST01134,29,Female,Employed,181179,419632,18,Rent,675,0,2,1,0,Port Harcourt,1
+CUST01135,27,Female,Employed,143066,409248,18,Business,595,1,1,0,1,Abuja,0
+CUST01136,48,Male,Student,19164,408774,12,Medical,474,1,3,0,0,Port Harcourt,1
+CUST01137,34,Male,Self-employed,63993,124156,12,Travel,558,1,0,0,0,Enugu,0
+CUST01138,51,Male,Student,16630,444623,3,Medical,578,0,1,1,0,Kano,1
+CUST01139,26,Male,Employed,185310,147001,3,Business,468,1,2,0,1,Enugu,0
+CUST01140,44,Female,Unemployed,20207,179334,3,Travel,598,0,3,1,1,Enugu,1
+CUST01141,31,Female,Self-employed,18091,141676,12,Travel,707,1,0,0,1,Port Harcourt,1
+CUST01142,45,Male,Self-employed,210734,289022,9,Travel,574,1,0,0,0,Enugu,0
+CUST01143,51,Male,Self-employed,10000,352454,6,Rent,590,1,1,1,1,Enugu,0
+CUST01144,44,Male,Student,22430,162146,9,Medical,742,1,0,0,1,Enugu,1
+CUST01145,56,Female,Unemployed,30871,430417,6,Business,499,1,0,0,1,Abuja,0
+CUST01146,23,Male,Employed,150799,46454,18,Medical,668,1,2,1,1,Lagos,0
+CUST01147,34,Female,Student,27166,482609,12,Travel,606,0,0,0,0,Lagos,1
+CUST01148,43,Female,Self-employed,47788,159574,6,Travel,546,1,2,1,1,Enugu,1
+CUST01149,47,Female,Student,25494,12769,12,Education,648,1,0,0,1,Lagos,1
+CUST01150,59,Male,Self-employed,71374,146131,18,Medical,695,1,2,0,1,Ibadan,0
+CUST01151,23,Male,Employed,136532,127862,6,Rent,559,1,1,1,0,Lagos,0
+CUST01152,55,Female,Employed,174747,102359,6,Business,617,1,0,0,0,Enugu,0
+CUST01153,40,Female,Unemployed,43914,388117,3,Business,578,1,1,0,1,Lagos,1
+CUST01154,42,Female,Self-employed,109333,222998,6,Medical,519,1,1,0,0,Ibadan,0
+CUST01155,25,Male,Student,23046,441566,18,Medical,566,1,1,0,0,Lagos,0
+CUST01156,42,Male,Unemployed,26049,49826,9,Medical,630,0,3,0,1,Port Harcourt,0
+CUST01157,18,Male,Student,18318,77836,18,Business,657,0,1,0,0,Kano,0
+CUST01158,50,Female,Self-employed,67626,284586,3,Medical,497,1,1,0,1,Kano,0
+CUST01159,30,Female,Self-employed,71073,41872,6,Travel,636,1,1,1,1,Lagos,0
+CUST01160,39,Male,Employed,140635,213234,12,Travel,578,1,3,0,0,Enugu,0
+CUST01161,40,Female,Student,21689,123160,18,Medical,635,0,1,1,0,Kano,1
+CUST01162,25,Female,Self-employed,119448,374255,18,Travel,850,1,1,0,1,Port Harcourt,0
+CUST01163,48,Female,Student,15798,138030,6,Travel,540,1,1,0,0,Abuja,1
+CUST01164,39,Female,Self-employed,104310,417790,3,Business,575,1,2,2,1,Lagos,0
+CUST01165,40,Female,Employed,176407,398605,6,Travel,619,1,1,0,0,Port Harcourt,0
+CUST01166,48,Female,Employed,196276,87484,9,Medical,458,1,2,0,0,Ibadan,1
+CUST01167,37,Male,Employed,92796,220257,6,Medical,741,1,1,0,0,Kano,0
+CUST01168,32,Male,Unemployed,26183,469908,9,Travel,674,1,1,0,1,Ibadan,0
+CUST01169,58,Female,Employed,181363,229988,3,Medical,579,1,1,1,1,Kano,1
+CUST01170,26,Female,Employed,193009,428909,6,Rent,414,1,1,1,1,Kano,1
+CUST01171,20,Female,Student,24765,378696,12,Business,530,1,0,0,1,Enugu,0
+CUST01172,31,Male,Student,17598,204051,6,Education,626,1,1,0,0,Ibadan,0
+CUST01173,27,Female,Student,20381,207758,12,Business,777,1,0,0,1,Ibadan,1
+CUST01174,52,Female,Unemployed,48480,465975,18,Travel,699,1,0,0,1,Lagos,1
+CUST01175,35,Male,Unemployed,28658,130489,9,Business,529,1,3,1,0,Abuja,1
+CUST01176,34,Female,Employed,143979,317445,9,Education,559,1,1,0,0,Enugu,0
+CUST01177,52,Male,Student,14055,96832,6,Travel,644,1,2,0,1,Lagos,0
+CUST01178,32,Female,Unemployed,34517,155569,3,Medical,660,1,0,0,1,Port Harcourt,1
+CUST01179,24,Male,Student,18752,179255,6,Medical,637,1,1,1,0,Port Harcourt,0
+CUST01180,50,Female,Self-employed,92652,494646,18,Medical,633,1,1,0,0,Abuja,0
+CUST01181,55,Male,Unemployed,42214,307905,3,Rent,529,0,3,0,1,Lagos,1
+CUST01182,25,Female,Employed,138720,220479,12,Travel,543,1,0,0,1,Abuja,1
+CUST01183,32,Male,Unemployed,45037,420882,12,Travel,610,1,2,1,1,Kano,1
+CUST01184,22,Female,Self-employed,31355,61129,3,Travel,558,0,0,0,1,Enugu,1
+CUST01185,43,Male,Self-employed,85802,61831,3,Education,846,1,2,0,1,Port Harcourt,0
+CUST01186,50,Male,Employed,174234,485041,9,Business,596,1,0,0,1,Enugu,0
+CUST01187,40,Male,Unemployed,31821,182395,12,Business,689,1,1,1,1,Lagos,1
+CUST01188,43,Female,Employed,141055,46883,18,Medical,530,0,0,0,1,Enugu,1
+CUST01189,25,Male,Unemployed,13278,426603,6,Rent,577,1,0,0,0,Kano,1
+CUST01190,28,Female,Unemployed,27043,496098,12,Business,670,0,0,0,1,Kano,1
+CUST01191,23,Male,Self-employed,108119,14463,9,Business,527,1,1,0,0,Lagos,0
+CUST01192,39,Male,Self-employed,124277,271419,18,Medical,415,1,2,0,1,Ibadan,0
+CUST01193,18,Female,Unemployed,34669,327702,6,Medical,546,1,0,0,1,Ibadan,1
+CUST01194,23,Male,Self-employed,158146,304720,3,Medical,534,1,1,1,0,Ibadan,1
+CUST01195,56,Female,Student,22295,392282,3,Rent,465,1,1,0,1,Lagos,0
+CUST01196,59,Female,Employed,164542,250623,3,Education,569,1,0,0,1,Lagos,0
+CUST01197,32,Male,Student,18638,494697,12,Rent,417,1,0,0,1,Enugu,1
+CUST01198,39,Female,Unemployed,18862,163800,9,Medical,734,1,0,0,0,Abuja,1
+CUST01199,32,Male,Student,17059,143571,18,Rent,619,1,2,0,0,Lagos,1
+CUST01200,50,Female,Employed,127481,102289,12,Medical,570,1,1,0,0,Enugu,0
+CUST01201,50,Female,Student,15821,12774,6,Rent,633,0,2,1,1,Abuja,1
+CUST01202,19,Female,Unemployed,35724,81192,12,Rent,665,1,1,0,0,Enugu,0
+CUST01203,32,Female,Unemployed,33298,216089,12,Education,562,1,4,3,1,Lagos,0
+CUST01204,23,Male,Student,24665,163343,3,Medical,606,1,1,0,0,Port Harcourt,0
+CUST01205,45,Female,Self-employed,114438,275123,9,Medical,675,1,0,0,0,Ibadan,0
+CUST01206,29,Male,Employed,116707,272407,12,Business,632,1,2,0,1,Kano,0
+CUST01207,59,Male,Unemployed,27316,486300,18,Education,635,0,0,0,1,Port Harcourt,0
+CUST01208,46,Female,Self-employed,54107,238323,18,Rent,578,1,2,0,1,Ibadan,0
+CUST01209,38,Male,Student,20786,133528,12,Business,697,1,1,0,0,Kano,0
+CUST01210,21,Male,Student,19333,69357,12,Travel,620,0,2,0,1,Kano,0
+CUST01211,39,Male,Self-employed,155893,284281,3,Travel,632,1,0,0,1,Port Harcourt,0
+CUST01212,44,Male,Student,16389,129956,9,Travel,698,1,0,0,1,Lagos,0
+CUST01213,46,Female,Self-employed,116691,277562,9,Education,684,1,1,0,1,Lagos,0
+CUST01214,35,Male,Student,15859,202783,9,Education,668,0,0,0,1,Enugu,1
+CUST01215,51,Male,Employed,156976,459146,6,Rent,522,1,2,1,0,Ibadan,1
+CUST01216,22,Male,Self-employed,51900,491416,6,Education,749,1,1,1,0,Ibadan,0
+CUST01217,56,Female,Student,24145,177437,18,Travel,628,1,1,1,1,Port Harcourt,0
+CUST01218,38,Male,Self-employed,52031,104024,9,Medical,644,1,0,0,0,Ibadan,0
+CUST01219,57,Female,Student,15214,53732,9,Business,686,0,2,0,0,Ibadan,1
+CUST01220,42,Male,Student,18051,369443,6,Medical,597,1,1,1,0,Lagos,1
+CUST01221,54,Female,Employed,175863,297148,3,Travel,631,1,0,0,1,Kano,0
+CUST01222,47,Male,Unemployed,28129,294939,3,Rent,609,0,2,0,1,Port Harcourt,1
+CUST01223,30,Female,Unemployed,10000,59527,12,Education,683,1,3,0,0,Port Harcourt,0
+CUST01224,41,Female,Self-employed,53823,249925,6,Education,672,1,0,0,1,Abuja,0
+CUST01225,55,Male,Student,28733,283254,9,Education,394,1,1,0,1,Abuja,1
+CUST01226,34,Female,Self-employed,126150,390893,6,Business,614,0,0,0,1,Lagos,0
+CUST01227,46,Male,Self-employed,151984,292455,12,Education,608,1,2,1,1,Abuja,1
+CUST01228,26,Male,Self-employed,198843,48636,12,Education,547,1,0,0,0,Enugu,1
+CUST01229,54,Female,Self-employed,128077,407226,12,Travel,509,1,1,0,1,Port Harcourt,0
+CUST01230,30,Female,Student,14136,109995,9,Rent,568,1,1,0,0,Abuja,0
+CUST01231,48,Female,Employed,155575,462866,18,Education,618,1,0,0,1,Enugu,0
+CUST01232,49,Male,Unemployed,37546,62674,12,Travel,606,1,0,0,0,Ibadan,0
+CUST01233,55,Female,Employed,179472,333308,3,Travel,567,1,0,0,0,Port Harcourt,0
+CUST01234,52,Female,Employed,131889,113106,18,Education,745,1,2,1,1,Enugu,0
+CUST01235,45,Male,Self-employed,101316,350863,18,Medical,626,0,0,0,0,Port Harcourt,0
+CUST01236,36,Male,Employed,98861,379716,6,Education,591,1,0,0,0,Enugu,0
+CUST01237,45,Male,Unemployed,20749,92130,18,Business,553,1,1,0,0,Kano,0
+CUST01238,32,Male,Student,14275,20163,12,Travel,639,0,2,0,0,Port Harcourt,1
+CUST01239,41,Female,Student,25476,94601,9,Medical,452,1,1,0,1,Kano,1
+CUST01240,41,Male,Employed,151834,383788,18,Medical,554,1,1,0,0,Enugu,0
+CUST01241,32,Female,Employed,179635,192924,12,Travel,645,1,0,0,0,Abuja,0
+CUST01242,46,Male,Unemployed,10000,145544,18,Business,746,1,0,0,0,Kano,0
+CUST01243,34,Female,Employed,114815,194312,6,Travel,640,1,1,1,1,Lagos,0
+CUST01244,43,Female,Unemployed,33012,10058,6,Travel,510,0,1,0,1,Kano,1
+CUST01245,51,Female,Unemployed,21417,397871,3,Business,545,1,2,0,1,Ibadan,1
+CUST01246,42,Male,Self-employed,60336,374668,12,Medical,342,1,0,0,1,Abuja,1
+CUST01247,44,Female,Self-employed,36465,300318,12,Rent,672,1,0,0,0,Ibadan,0
+CUST01248,32,Male,Unemployed,17836,212913,3,Rent,549,1,0,0,1,Ibadan,0
+CUST01249,39,Male,Student,19689,64266,12,Education,576,1,0,0,1,Abuja,1
+CUST01250,20,Female,Self-employed,126939,480262,6,Travel,497,1,1,1,1,Enugu,0
+CUST01251,25,Female,Employed,155137,443194,9,Business,591,0,1,0,1,Lagos,0
+CUST01252,23,Male,Student,23014,316013,12,Education,541,1,0,0,1,Kano,1
+CUST01253,44,Female,Self-employed,160773,176653,12,Education,611,0,2,1,0,Port Harcourt,1
+CUST01254,48,Female,Self-employed,135166,316046,18,Education,611,1,0,0,1,Lagos,0
+CUST01255,26,Female,Student,13614,477291,12,Medical,491,1,1,0,1,Ibadan,1
+CUST01256,18,Male,Employed,193642,408428,18,Medical,788,1,4,2,1,Port Harcourt,0
+CUST01257,36,Female,Unemployed,36931,343815,9,Medical,605,1,2,1,1,Lagos,1
+CUST01258,44,Female,Student,23455,441922,12,Rent,413,1,1,0,0,Enugu,1
+CUST01259,59,Male,Unemployed,39283,355662,6,Medical,606,1,1,0,1,Ibadan,0
+CUST01260,30,Male,Employed,162319,25347,3,Business,476,0,0,0,0,Port Harcourt,1
+CUST01261,59,Male,Employed,185694,231692,12,Medical,845,1,0,0,1,Abuja,0
+CUST01262,40,Female,Unemployed,46218,315924,6,Business,548,1,3,3,1,Lagos,1
+CUST01263,21,Male,Employed,165841,100032,18,Rent,523,1,0,0,0,Ibadan,0
+CUST01264,19,Male,Employed,149571,22081,3,Travel,580,1,1,0,0,Abuja,0
+CUST01265,41,Female,Self-employed,207283,311793,3,Rent,533,1,1,0,1,Kano,0
+CUST01266,42,Female,Student,18164,287114,3,Education,560,1,1,1,1,Kano,0
+CUST01267,39,Female,Unemployed,33456,295239,9,Rent,593,1,2,0,0,Lagos,1
+CUST01268,51,Female,Employed,160023,137538,12,Education,527,1,0,0,0,Kano,0
+CUST01269,54,Male,Unemployed,50515,415562,9,Rent,514,1,3,1,0,Port Harcourt,1
+CUST01270,59,Male,Student,15317,462312,6,Travel,642,1,0,0,0,Port Harcourt,0
+CUST01271,56,Male,Student,22320,214732,3,Rent,447,0,0,0,1,Ibadan,1
+CUST01272,32,Female,Self-employed,145317,458200,18,Business,806,1,1,0,1,Port Harcourt,0
+CUST01273,48,Female,Employed,117638,184619,3,Business,684,0,2,1,0,Lagos,1
+CUST01274,23,Female,Student,13703,184483,3,Education,559,0,0,0,1,Abuja,1
+CUST01275,57,Male,Employed,122481,413859,12,Medical,409,1,1,1,0,Abuja,0
+CUST01276,30,Female,Student,16671,244845,18,Business,574,1,1,0,1,Ibadan,0
+CUST01277,24,Female,Student,15275,20949,12,Education,612,0,2,1,0,Enugu,1
+CUST01278,19,Male,Self-employed,135901,342176,3,Education,498,1,1,0,1,Enugu,0
+CUST01279,44,Female,Employed,159918,472722,18,Travel,543,1,2,0,0,Kano,0
+CUST01280,27,Female,Unemployed,29290,269807,12,Business,505,1,2,1,0,Enugu,1
+CUST01281,43,Male,Unemployed,44198,333573,18,Medical,803,1,2,0,1,Lagos,0
+CUST01282,22,Female,Unemployed,20996,32505,6,Rent,593,0,0,0,1,Ibadan,1
+CUST01283,20,Male,Student,20644,221220,6,Medical,597,1,0,0,1,Enugu,1
+CUST01284,33,Female,Employed,150087,179149,9,Education,617,0,0,0,1,Lagos,0
+CUST01285,43,Female,Self-employed,109637,117682,6,Business,445,1,1,0,1,Abuja,0
+CUST01286,27,Male,Self-employed,98391,163602,12,Education,549,1,1,0,1,Lagos,0
+CUST01287,27,Female,Student,22634,132749,18,Education,433,1,2,1,0,Lagos,1
+CUST01288,41,Male,Unemployed,37735,487799,3,Medical,494,1,0,0,0,Enugu,1
+CUST01289,57,Male,Student,16204,320006,3,Rent,408,0,0,0,0,Enugu,0
+CUST01290,35,Female,Self-employed,72535,56466,18,Rent,515,1,0,0,1,Lagos,0
+CUST01291,25,Male,Self-employed,76679,131718,12,Business,513,1,0,0,1,Port Harcourt,0
+CUST01292,35,Male,Self-employed,61281,304641,6,Business,548,1,0,0,1,Abuja,0
+CUST01293,46,Male,Unemployed,25224,193998,3,Education,494,1,3,1,1,Ibadan,1
+CUST01294,57,Male,Employed,163946,40588,3,Business,708,1,1,1,0,Port Harcourt,0
+CUST01295,42,Male,Employed,155605,419327,6,Education,453,1,1,1,1,Kano,1
+CUST01296,38,Female,Unemployed,34920,255045,3,Travel,486,0,0,0,1,Ibadan,1
+CUST01297,59,Male,Unemployed,38285,229216,6,Business,413,1,0,0,0,Ibadan,1
+CUST01298,39,Male,Unemployed,49499,329423,3,Business,555,0,0,0,1,Kano,0
+CUST01299,58,Male,Student,11885,418099,6,Medical,478,0,0,0,1,Ibadan,1
+CUST01300,36,Male,Student,15356,188390,6,Travel,537,1,2,0,0,Lagos,1
+CUST01301,22,Male,Employed,118818,196906,18,Education,513,1,1,0,0,Abuja,0
+CUST01302,57,Male,Student,26132,273230,3,Business,777,1,2,1,0,Lagos,0
+CUST01303,44,Male,Employed,143936,88750,18,Medical,612,1,1,0,1,Port Harcourt,0
+CUST01304,44,Female,Self-employed,150564,189333,6,Rent,684,1,3,1,0,Enugu,0
+CUST01305,29,Female,Student,17564,140609,12,Rent,378,1,2,1,0,Abuja,1
+CUST01306,22,Male,Self-employed,61385,45004,12,Travel,665,1,1,0,0,Lagos,0
+CUST01307,22,Female,Unemployed,34995,436182,12,Business,688,1,0,0,0,Ibadan,1
+CUST01308,39,Male,Self-employed,100593,145212,3,Travel,598,1,0,0,1,Lagos,0
+CUST01309,26,Female,Self-employed,159966,111465,12,Rent,530,1,0,0,1,Kano,0
+CUST01310,32,Male,Self-employed,83154,394409,3,Rent,644,1,1,0,1,Enugu,0
+CUST01311,49,Female,Student,10745,301463,6,Rent,622,0,0,0,0,Enugu,1
+CUST01312,35,Male,Employed,186448,125124,9,Medical,610,1,0,0,0,Abuja,0
+CUST01313,41,Female,Unemployed,16159,439389,9,Travel,601,1,0,0,0,Port Harcourt,0
+CUST01314,23,Male,Employed,153766,495838,3,Travel,581,1,1,0,1,Abuja,0
+CUST01315,58,Male,Employed,202776,194183,12,Travel,554,1,0,0,1,Lagos,0
+CUST01316,58,Male,Self-employed,156172,173000,12,Travel,624,1,2,1,0,Ibadan,0
+CUST01317,51,Female,Student,20827,353602,6,Medical,642,0,1,0,1,Abuja,1
+CUST01318,42,Male,Unemployed,14227,235725,6,Business,514,1,1,1,0,Abuja,1
+CUST01319,33,Female,Self-employed,127388,295450,12,Rent,492,1,1,0,1,Lagos,0
+CUST01320,32,Female,Student,21441,313374,3,Education,494,0,1,1,0,Abuja,1
+CUST01321,24,Male,Student,27692,310009,6,Education,526,1,2,0,1,Kano,1
+CUST01322,41,Male,Student,19044,389223,6,Medical,696,1,0,0,1,Kano,1
+CUST01323,44,Male,Unemployed,22322,216782,6,Business,523,1,2,1,0,Enugu,1
+CUST01324,46,Male,Unemployed,24818,241505,6,Business,546,1,0,0,0,Port Harcourt,1
+CUST01325,19,Female,Student,23472,156146,6,Medical,565,1,5,1,0,Abuja,1
+CUST01326,59,Female,Self-employed,113019,232427,18,Rent,709,1,1,1,1,Ibadan,1
+CUST01327,20,Male,Employed,152941,292882,12,Travel,691,1,0,0,1,Port Harcourt,0
+CUST01328,23,Male,Student,23973,325531,12,Medical,800,1,2,1,1,Lagos,1
+CUST01329,27,Female,Self-employed,127149,277901,6,Medical,439,1,1,0,1,Port Harcourt,1
+CUST01330,21,Male,Self-employed,88083,439412,18,Business,794,1,0,0,1,Port Harcourt,0
+CUST01331,24,Male,Employed,164487,72987,12,Travel,724,1,0,0,1,Lagos,0
+CUST01332,51,Female,Student,20218,396824,12,Business,722,0,2,1,1,Port Harcourt,1
+CUST01333,31,Female,Self-employed,71472,473965,3,Travel,622,1,0,0,1,Lagos,0
+CUST01334,50,Female,Self-employed,175333,381163,6,Medical,438,1,4,2,0,Kano,1
+CUST01335,55,Male,Employed,118592,453875,3,Education,533,1,0,0,1,Enugu,0
+CUST01336,53,Female,Self-employed,78034,176710,12,Travel,540,1,3,2,1,Enugu,1
+CUST01337,19,Male,Student,25741,279266,12,Rent,663,1,2,0,1,Enugu,1
+CUST01338,35,Female,Self-employed,171575,384114,9,Education,678,1,0,0,0,Enugu,0
+CUST01339,56,Male,Employed,166215,469472,12,Medical,662,0,1,1,1,Ibadan,1
+CUST01340,29,Male,Unemployed,32910,408963,12,Medical,468,1,3,1,1,Enugu,1
+CUST01341,52,Male,Employed,129013,155539,18,Medical,518,1,1,1,1,Enugu,0
+CUST01342,27,Male,Unemployed,17549,138629,3,Business,646,1,3,0,1,Port Harcourt,1
+CUST01343,48,Female,Student,12447,152912,18,Business,531,0,1,0,0,Kano,1
+CUST01344,45,Female,Self-employed,94004,475912,18,Business,582,1,1,1,0,Ibadan,1
+CUST01345,19,Male,Self-employed,67988,27023,9,Rent,598,1,1,0,1,Ibadan,0
+CUST01346,59,Male,Student,16083,23769,18,Rent,671,1,2,1,1,Enugu,1
+CUST01347,24,Male,Unemployed,23898,211645,9,Medical,659,1,0,0,0,Ibadan,0
+CUST01348,53,Female,Unemployed,13278,155587,3,Business,519,1,3,0,1,Kano,1
+CUST01349,39,Female,Student,23483,330685,12,Travel,850,1,0,0,1,Ibadan,1
+CUST01350,57,Male,Student,19897,238433,18,Travel,664,1,0,0,1,Kano,0
+CUST01351,55,Female,Unemployed,14012,344846,3,Rent,561,1,2,0,0,Port Harcourt,1
+CUST01352,58,Male,Employed,172574,313112,12,Rent,541,1,1,1,0,Kano,0
+CUST01353,36,Male,Employed,169528,107073,6,Medical,766,0,0,0,1,Lagos,0
+CUST01354,38,Male,Student,18529,375501,6,Rent,525,1,2,0,1,Ibadan,1
+CUST01355,40,Male,Unemployed,30508,99897,12,Travel,620,1,1,1,0,Abuja,1
+CUST01356,28,Female,Unemployed,43625,373998,12,Education,471,0,1,0,1,Enugu,1
+CUST01357,44,Male,Unemployed,28255,326832,6,Business,525,1,0,0,1,Lagos,1
+CUST01358,29,Male,Unemployed,15163,330182,12,Travel,571,1,1,1,0,Kano,1
+CUST01359,35,Female,Student,16983,303846,18,Travel,657,1,0,0,0,Ibadan,0
+CUST01360,25,Female,Student,16830,60376,9,Travel,564,0,1,0,1,Abuja,1
+CUST01361,22,Female,Self-employed,42551,150631,9,Rent,626,1,1,0,0,Port Harcourt,1
+CUST01362,40,Female,Unemployed,30185,490989,3,Rent,850,1,1,1,0,Kano,1
+CUST01363,31,Female,Student,22898,226859,6,Travel,609,1,1,0,1,Abuja,0
+CUST01364,59,Female,Self-employed,150841,445207,6,Rent,567,1,2,0,1,Abuja,0
+CUST01365,42,Male,Employed,198430,418278,3,Medical,388,1,0,0,0,Ibadan,0
+CUST01366,54,Male,Student,27786,298458,9,Medical,495,1,2,0,1,Abuja,0
+CUST01367,36,Male,Employed,198718,441342,9,Medical,583,1,0,0,0,Abuja,0
+CUST01368,19,Female,Student,17092,166901,18,Rent,704,1,1,0,0,Ibadan,0
+CUST01369,43,Female,Employed,144215,376404,3,Education,466,1,0,0,1,Port Harcourt,0
+CUST01370,56,Male,Student,22437,487558,9,Rent,770,1,3,0,1,Lagos,1
+CUST01371,22,Female,Unemployed,39184,101116,12,Medical,463,1,1,0,1,Ibadan,1
+CUST01372,27,Male,Student,20299,191901,9,Business,582,1,0,0,1,Enugu,0
+CUST01373,34,Female,Employed,149033,380448,6,Travel,449,1,0,0,1,Lagos,1
+CUST01374,39,Female,Employed,137914,346542,12,Travel,583,1,0,0,1,Abuja,0
+CUST01375,28,Female,Unemployed,55294,39441,3,Medical,658,1,2,0,0,Lagos,0
+CUST01376,27,Male,Self-employed,140910,17553,9,Rent,630,0,0,0,0,Lagos,0
+CUST01377,18,Male,Student,23819,93512,3,Travel,560,1,1,0,1,Port Harcourt,0
+CUST01378,32,Male,Student,20330,416228,9,Travel,485,0,3,1,1,Ibadan,1
+CUST01379,41,Male,Unemployed,18342,39961,12,Rent,785,1,1,0,0,Enugu,0
+CUST01380,41,Female,Unemployed,39955,385681,12,Medical,591,1,2,1,1,Lagos,1
+CUST01381,35,Female,Unemployed,27148,68359,9,Medical,695,0,0,0,1,Port Harcourt,0
+CUST01382,52,Male,Self-employed,134935,303380,12,Education,633,1,2,1,1,Port Harcourt,0
+CUST01383,26,Female,Self-employed,103032,95972,12,Education,423,1,2,1,0,Abuja,1
+CUST01384,36,Male,Self-employed,102136,218453,6,Medical,468,1,1,1,0,Port Harcourt,1
+CUST01385,23,Female,Employed,146055,415878,18,Education,519,1,2,2,0,Lagos,0
+CUST01386,49,Male,Student,19598,387514,9,Education,566,1,2,1,1,Abuja,1
+CUST01387,34,Female,Self-employed,111237,347776,6,Rent,680,1,1,0,1,Port Harcourt,0
+CUST01388,52,Female,Student,14258,45720,3,Medical,554,1,2,0,1,Ibadan,1
+CUST01389,35,Female,Student,19493,330246,18,Education,466,0,0,0,0,Abuja,1
+CUST01390,54,Male,Employed,181095,364807,6,Medical,850,0,3,1,1,Kano,0
+CUST01391,46,Female,Employed,156596,444596,9,Education,603,1,1,0,0,Abuja,0
+CUST01392,18,Female,Self-employed,108772,192508,3,Business,603,1,0,0,0,Kano,0
+CUST01393,50,Female,Employed,175504,363128,18,Medical,773,1,3,0,0,Ibadan,0
+CUST01394,52,Female,Student,24533,47065,9,Education,640,1,5,2,1,Enugu,0
+CUST01395,49,Male,Unemployed,31172,232745,18,Travel,583,1,0,0,1,Lagos,1
+CUST01396,59,Female,Self-employed,113974,409108,18,Business,634,1,0,0,0,Abuja,0
+CUST01397,24,Female,Student,20986,128844,6,Medical,604,1,0,0,1,Abuja,1
+CUST01398,28,Male,Unemployed,42266,224521,9,Education,645,1,2,1,1,Enugu,1
+CUST01399,43,Female,Employed,163207,282914,9,Medical,709,0,0,0,1,Ibadan,1
+CUST01400,45,Male,Self-employed,90535,100372,6,Business,385,1,0,0,0,Ibadan,0
+CUST01401,58,Male,Unemployed,43300,226630,9,Medical,511,1,0,0,1,Kano,1
+CUST01402,59,Female,Employed,116711,448086,18,Travel,431,1,3,1,1,Kano,1
+CUST01403,38,Male,Employed,201663,321127,6,Travel,449,0,1,0,1,Kano,0
+CUST01404,33,Female,Student,13589,453918,12,Medical,491,1,0,0,1,Abuja,1
+CUST01405,23,Male,Self-employed,177998,47990,6,Travel,615,1,0,0,1,Abuja,0
+CUST01406,49,Male,Employed,148855,45958,12,Education,578,1,0,0,0,Lagos,0
+CUST01407,55,Male,Self-employed,69175,385379,3,Education,752,1,0,0,1,Kano,0
+CUST01408,48,Female,Unemployed,29159,347876,6,Education,582,1,1,1,0,Ibadan,0
+CUST01409,55,Female,Self-employed,90725,203143,9,Business,565,0,1,1,1,Enugu,0
+CUST01410,54,Male,Self-employed,61113,239860,6,Rent,451,1,1,0,1,Enugu,0
+CUST01411,38,Male,Unemployed,45480,84069,6,Rent,593,1,0,0,0,Abuja,1
+CUST01412,24,Male,Student,17092,214149,3,Business,514,1,1,0,1,Lagos,1
+CUST01413,18,Female,Student,20356,491993,3,Rent,621,1,1,0,1,Lagos,0
+CUST01414,59,Male,Employed,166791,180165,12,Business,742,0,0,0,0,Kano,0
+CUST01415,18,Male,Employed,185133,177626,9,Business,610,1,2,0,1,Lagos,0
+CUST01416,28,Male,Self-employed,143414,75990,18,Rent,576,1,3,1,0,Abuja,1
+CUST01417,18,Female,Employed,135735,53617,3,Rent,533,1,3,1,1,Enugu,1
+CUST01418,28,Female,Unemployed,41850,272608,9,Rent,706,1,0,0,1,Ibadan,0
+CUST01419,46,Male,Employed,201673,79006,3,Travel,684,1,0,0,1,Lagos,0
+CUST01420,58,Male,Self-employed,111601,103466,9,Rent,639,1,1,0,1,Ibadan,0
+CUST01421,31,Male,Employed,127266,442296,6,Travel,458,1,1,0,1,Enugu,1
+CUST01422,33,Female,Unemployed,10000,351774,18,Rent,671,1,3,3,1,Port Harcourt,0
+CUST01423,37,Male,Self-employed,55265,273853,9,Education,610,0,1,0,1,Port Harcourt,0
+CUST01424,21,Male,Self-employed,71998,441381,12,Business,621,0,2,0,0,Kano,0
+CUST01425,28,Male,Student,21024,92370,3,Travel,572,1,2,1,0,Abuja,0
+CUST01426,20,Female,Unemployed,34833,141990,9,Travel,718,1,0,0,0,Enugu,0
+CUST01427,31,Male,Employed,106602,337608,9,Education,472,1,0,0,1,Lagos,0
+CUST01428,28,Female,Unemployed,52509,494162,12,Travel,659,1,0,0,1,Enugu,0
+CUST01429,46,Female,Student,18682,133045,6,Travel,526,1,2,2,1,Port Harcourt,1
+CUST01430,49,Female,Student,20388,84007,6,Business,649,1,2,0,1,Port Harcourt,1
+CUST01431,33,Female,Self-employed,87422,65565,3,Education,732,1,1,0,1,Enugu,0
+CUST01432,47,Male,Student,25419,157685,12,Travel,597,0,0,0,1,Enugu,1
+CUST01433,30,Male,Employed,179317,18520,6,Education,617,1,1,0,1,Port Harcourt,0
+CUST01434,56,Male,Self-employed,126995,210856,3,Medical,605,1,5,3,1,Abuja,0
+CUST01435,25,Female,Self-employed,159646,372512,18,Education,569,1,0,0,1,Lagos,0
+CUST01436,40,Male,Student,20883,120415,12,Medical,465,1,1,0,0,Enugu,1
+CUST01437,45,Female,Student,20507,152245,9,Education,524,1,2,0,1,Enugu,1
+CUST01438,57,Female,Student,23989,153856,18,Medical,577,1,0,0,1,Abuja,0
+CUST01439,53,Female,Employed,147267,247587,3,Medical,452,1,0,0,1,Port Harcourt,0
+CUST01440,24,Female,Self-employed,169338,222955,6,Business,537,1,1,0,0,Lagos,0
+CUST01441,24,Male,Employed,190281,395440,12,Business,635,1,2,1,1,Abuja,0
+CUST01442,58,Female,Unemployed,30054,326424,6,Medical,698,1,1,0,0,Ibadan,1
+CUST01443,46,Male,Employed,120722,462560,18,Education,523,1,0,0,0,Port Harcourt,0
+CUST01444,43,Male,Unemployed,44338,389365,12,Education,530,1,0,0,1,Ibadan,1
+CUST01445,42,Female,Unemployed,33533,238650,18,Travel,466,1,2,2,1,Lagos,1
+CUST01446,30,Male,Student,19829,448914,3,Education,520,0,0,0,1,Port Harcourt,1
+CUST01447,29,Female,Student,19456,47686,12,Education,588,1,2,1,0,Lagos,1
+CUST01448,37,Male,Self-employed,95069,462270,18,Medical,626,1,1,0,0,Enugu,0
+CUST01449,41,Male,Student,27845,42183,12,Rent,782,1,1,0,0,Kano,1
+CUST01450,28,Female,Student,20036,285025,3,Travel,491,1,0,0,1,Enugu,0
+CUST01451,36,Female,Student,13675,118971,12,Travel,529,1,4,1,1,Abuja,1
+CUST01452,47,Male,Student,22029,172899,9,Education,549,1,3,1,1,Ibadan,1
+CUST01453,32,Female,Unemployed,31512,87610,9,Medical,661,1,3,2,1,Lagos,1
+CUST01454,43,Male,Employed,158880,427401,6,Medical,683,1,0,0,1,Kano,0
+CUST01455,47,Male,Unemployed,43316,231835,12,Business,535,1,4,0,0,Port Harcourt,0
+CUST01456,44,Female,Unemployed,24311,400253,12,Medical,608,1,0,0,0,Lagos,0
+CUST01457,40,Male,Self-employed,71412,287047,6,Medical,517,1,0,0,0,Ibadan,0
+CUST01458,32,Male,Employed,206256,104448,9,Business,610,1,0,0,0,Kano,0
+CUST01459,23,Male,Employed,92636,142993,18,Medical,644,1,0,0,1,Lagos,0
+CUST01460,44,Female,Student,20957,405584,18,Travel,673,1,2,1,0,Port Harcourt,1
+CUST01461,20,Female,Employed,168697,80221,12,Travel,763,1,0,0,1,Lagos,0
+CUST01462,38,Female,Student,25466,83906,18,Education,585,0,0,0,1,Kano,1
+CUST01463,41,Male,Student,14976,473129,3,Rent,632,1,0,0,0,Kano,0
+CUST01464,31,Female,Unemployed,21766,451768,6,Travel,542,0,3,2,0,Kano,1
+CUST01465,53,Female,Student,21344,177942,6,Education,497,1,1,0,1,Enugu,1
+CUST01466,49,Male,Self-employed,115855,120608,9,Medical,557,1,0,0,1,Lagos,0
+CUST01467,51,Female,Student,10000,138193,6,Travel,457,1,1,0,0,Enugu,1
+CUST01468,27,Male,Employed,150473,308664,18,Medical,545,0,0,0,1,Kano,0
+CUST01469,25,Male,Student,19934,449857,12,Rent,770,1,0,0,1,Kano,1
+CUST01470,28,Male,Unemployed,37917,358226,18,Medical,542,1,1,0,1,Port Harcourt,1
+CUST01471,55,Female,Self-employed,93471,48018,12,Education,543,1,1,1,1,Kano,1
+CUST01472,34,Female,Self-employed,40661,173393,3,Travel,661,1,1,0,0,Abuja,1
+CUST01473,30,Female,Self-employed,138063,199606,12,Medical,568,1,3,2,0,Enugu,1
+CUST01474,22,Female,Employed,125247,67661,18,Rent,604,0,2,1,1,Kano,0
+CUST01475,56,Female,Self-employed,111310,168087,6,Rent,461,1,3,1,0,Enugu,1
+CUST01476,56,Female,Student,12950,87095,12,Medical,552,1,1,0,0,Lagos,0
+CUST01477,28,Male,Student,18160,404965,9,Medical,664,1,0,0,0,Enugu,0
+CUST01478,26,Male,Unemployed,25938,416659,18,Rent,505,1,0,0,1,Port Harcourt,1
+CUST01479,37,Male,Employed,191541,456913,6,Rent,559,1,1,1,1,Lagos,0
+CUST01480,33,Male,Unemployed,38408,165295,12,Education,423,1,2,2,1,Ibadan,1
+CUST01481,22,Female,Student,21345,238341,3,Rent,721,1,0,0,1,Abuja,1
+CUST01482,36,Female,Self-employed,31546,477576,3,Medical,450,1,0,0,1,Kano,1
+CUST01483,53,Male,Employed,159807,468712,12,Business,589,1,2,1,1,Lagos,0
+CUST01484,40,Male,Unemployed,29747,327627,18,Medical,607,1,2,1,0,Lagos,0
+CUST01485,44,Female,Unemployed,29877,121876,3,Education,628,1,1,0,1,Enugu,0
+CUST01486,19,Male,Self-employed,120894,104062,3,Travel,398,1,0,0,1,Enugu,1
+CUST01487,31,Male,Unemployed,34962,393540,12,Business,748,1,0,0,0,Abuja,0
+CUST01488,24,Male,Unemployed,10000,145724,9,Travel,659,1,1,1,1,Enugu,1
+CUST01489,26,Female,Self-employed,67711,355894,12,Rent,594,1,0,0,1,Abuja,0
+CUST01490,56,Male,Self-employed,67360,48592,6,Medical,812,1,0,0,1,Port Harcourt,0
+CUST01491,40,Female,Unemployed,13647,444699,18,Business,508,0,0,0,1,Port Harcourt,1
+CUST01492,51,Female,Employed,123490,393349,9,Travel,669,0,2,1,1,Port Harcourt,1
+CUST01493,36,Female,Self-employed,131996,108249,9,Rent,653,1,0,0,1,Kano,0
+CUST01494,44,Female,Unemployed,44482,265902,9,Business,461,1,0,0,0,Enugu,1
+CUST01495,27,Male,Employed,154114,345380,6,Medical,740,1,0,0,0,Ibadan,0
+CUST01496,50,Female,Unemployed,41245,97051,9,Business,579,1,0,0,0,Ibadan,0
+CUST01497,47,Male,Student,25366,84226,12,Business,681,1,1,0,1,Port Harcourt,1
+CUST01498,30,Female,Unemployed,32256,90217,3,Rent,522,0,2,0,1,Kano,1
+CUST01499,38,Male,Self-employed,72385,400823,12,Medical,591,0,1,1,0,Enugu,0
+CUST01500,37,Female,Employed,157446,475174,9,Business,590,0,0,0,1,Port Harcourt,0
