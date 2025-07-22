@@ -1,4 +1,5 @@
 📦 Loan Approval Prediction App
+
 A machine learning web application built with Streamlit to predict whether a loan application is likely to be approved based on applicant details. The backend is powered by Scikit-learn pipelines and tuned classification models like Logistic Regression, Random Forest, and XGBoost.
 
 📌 Features
